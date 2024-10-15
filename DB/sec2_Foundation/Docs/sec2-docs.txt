@@ -1,0 +1,42 @@
+Foundation of SQL
+
+  - SQL: Structured Query Language.
+
+  - SQL is a declarative language.
+    - Declarative means, something is GOING to happen.. get data back from the database.
+      So we are stating something that is going to happen. We say WHAT will happen, but 
+      we have no idea how its happening.
+
+    - Imperative programming. Meaning HOW it will happen. where we go line by line
+      saying how it will happen.
+
+  - A language to query and manipulate data stored in relational databases.
+  - A relational DBs contains tables.
+  - Strong mathematical foundation.
+  - SQL is based on the relational model, which in turn is based on Set Theory 
+    and Predicate Logic.
+  - The relational model is a mathematical model for data management and manipulation.
+  - SQL was first created by Ted Codd in 1969 and is the cornerstone of SQL 
+    and relational databases.
+  - Iteration: a process where a set of instructions are repeated a specified number of 
+    times, or until a condition is met.
+  - In relational data, it is best to use relational operations that work with whole 
+    tables at a time.
+  - Predicate condition in SQl, a condition that either returns true of false. 
+   
+
+Relational Database Management System (RDBMS)
+ - RDBMS is a way to access and connect the the database.
+ - MSSQL, MySQL, PostgresSQL, Oracle Database, SQLite are example of popular (RDBMS) 
+   that use SQL to interact with DBs.
+
+Tables
+ - Tables holds the data, whiles DBs holds tables.
+ - A table is a collection of related data held in a structured
+  format within a database.
+
+  Query
+   - An SQL statement to retrieve data from a database.
+   - How the SQL engine decides to execute a query is what we call a query plan.
+   - The query plan affects the efficiency of the query.
+   

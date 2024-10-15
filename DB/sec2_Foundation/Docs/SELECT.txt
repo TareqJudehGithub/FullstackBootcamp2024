@@ -1,0 +1,11 @@
+SELECT statement
+ 
+ Query
+ - An SQL statement to look at data inside database.
+ 
+  SQL statement (Query):
+  => clause:     SELECT *                     * is the identifier
+  => clause      FROM User
+  => clause      WHERE role = 'manager';      'manager' is the expression
+
+
