@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tareq\\Fullstack Bootcamp\\Assignments\\TablesAndLists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4675FDEA-3B24-4B74-8FAC-9272B42D211F}|TablesAndLists\\TablesAndLists.csproj|d:\\tareq\\fullstack bootcamp\\assignments\\tablesandlists\\tablesandlists\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4675FDEA-3B24-4B74-8FAC-9272B42D211F}|TablesAndLists\\TablesAndLists.csproj|solutionrelative:tablesandlists\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675FDEA-3B24-4B74-8FAC-9272B42D211F}|TablesAndLists\\TablesAndLists.csproj|d:\\tareq\\fullstack bootcamp\\assignments\\tablesandlists\\tablesandlists\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4675FDEA-3B24-4B74-8FAC-9272B42D211F}|TablesAndLists\\TablesAndLists.csproj|solutionrelative:tablesandlists\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675FDEA-3B24-4B74-8FAC-9272B42D211F}|TablesAndLists\\TablesAndLists.csproj|d:\\tareq\\fullstack bootcamp\\assignments\\tablesandlists\\tablesandlists\\wwwroot\\html.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4675FDEA-3B24-4B74-8FAC-9272B42D211F}|TablesAndLists\\TablesAndLists.csproj|solutionrelative:tablesandlists\\wwwroot\\html.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675FDEA-3B24-4B74-8FAC-9272B42D211F}|TablesAndLists\\TablesAndLists.csproj|d:\\tareq\\fullstack bootcamp\\assignments\\tablesandlists\\tablesandlists\\wwwroot\\css.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4675FDEA-3B24-4B74-8FAC-9272B42D211F}|TablesAndLists\\TablesAndLists.csproj|solutionrelative:tablesandlists\\wwwroot\\css.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Tareq\\Fullstack Bootcamp\\Assignments\\TablesAndLists\\TablesAndLists\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "TablesAndLists\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Tareq\\Fullstack Bootcamp\\Assignments\\TablesAndLists\\TablesAndLists\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "TablesAndLists\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-30T08:32:16.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "css.html",
+              "DocumentMoniker": "D:\\Tareq\\Fullstack Bootcamp\\Assignments\\TablesAndLists\\TablesAndLists\\wwwroot\\css.html",
+              "RelativeDocumentMoniker": "TablesAndLists\\wwwroot\\css.html",
+              "ToolTip": "D:\\Tareq\\Fullstack Bootcamp\\Assignments\\TablesAndLists\\TablesAndLists\\wwwroot\\css.html",
+              "RelativeToolTip": "TablesAndLists\\wwwroot\\css.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-28T08:41:52.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "html.html",
+              "DocumentMoniker": "D:\\Tareq\\Fullstack Bootcamp\\Assignments\\TablesAndLists\\TablesAndLists\\wwwroot\\html.html",
+              "RelativeDocumentMoniker": "TablesAndLists\\wwwroot\\html.html",
+              "ToolTip": "D:\\Tareq\\Fullstack Bootcamp\\Assignments\\TablesAndLists\\TablesAndLists\\wwwroot\\html.html",
+              "RelativeToolTip": "TablesAndLists\\wwwroot\\html.html",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-28T07:58:39.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Tareq\\Fullstack Bootcamp\\Assignments\\TablesAndLists\\TablesAndLists\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "TablesAndLists\\wwwroot\\index.html",
+              "ToolTip": "D:\\Tareq\\Fullstack Bootcamp\\Assignments\\TablesAndLists\\TablesAndLists\\wwwroot\\index.html",
+              "RelativeToolTip": "TablesAndLists\\wwwroot\\index.html",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-28T07:37:44.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

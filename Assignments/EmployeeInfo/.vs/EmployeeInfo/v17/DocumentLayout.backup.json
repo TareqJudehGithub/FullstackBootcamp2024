@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tareq\\Fullstack Bootcamp\\Assignments\\EmployeeInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FD8917-956D-41C6-AF12-633A9EFECF94}|EmployeeInfo\\EmployeeInfo.csproj|d:\\tareq\\fullstack bootcamp\\assignments\\employeeinfo\\employeeinfo\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E6FD8917-956D-41C6-AF12-633A9EFECF94}|EmployeeInfo\\EmployeeInfo.csproj|solutionrelative:employeeinfo\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FD8917-956D-41C6-AF12-633A9EFECF94}|EmployeeInfo\\EmployeeInfo.csproj|d:\\tareq\\fullstack bootcamp\\assignments\\employeeinfo\\employeeinfo\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E6FD8917-956D-41C6-AF12-633A9EFECF94}|EmployeeInfo\\EmployeeInfo.csproj|solutionrelative:employeeinfo\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Tareq\\Fullstack Bootcamp\\Assignments\\EmployeeInfo\\EmployeeInfo\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "EmployeeInfo\\wwwroot\\index.html",
+              "ToolTip": "D:\\Tareq\\Fullstack Bootcamp\\Assignments\\EmployeeInfo\\EmployeeInfo\\wwwroot\\index.html",
+              "RelativeToolTip": "EmployeeInfo\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-01T13:44:34.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\Tareq\\Fullstack Bootcamp\\Assignments\\EmployeeInfo\\EmployeeInfo\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "EmployeeInfo\\wwwroot\\js\\script.js",
+              "ToolTip": "D:\\Tareq\\Fullstack Bootcamp\\Assignments\\EmployeeInfo\\EmployeeInfo\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "EmployeeInfo\\wwwroot\\js\\script.js",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-01T13:44:13.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

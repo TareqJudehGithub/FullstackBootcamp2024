@@ -1,0 +1,61 @@
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\appsettings.Development.json
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\appsettings.json
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\EmployeeInfo.staticwebassets.runtime.json
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\EmployeeInfo.exe
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\EmployeeInfo.deps.json
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\EmployeeInfo.runtimeconfig.json
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\EmployeeInfo.dll
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\EmployeeInfo.pdb
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.AssemblyInfoInputs.cache
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.AssemblyInfo.cs
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.csproj.CoreCompileInputs.cache
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.MvcApplicationPartsAssemblyInfo.cache
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.RazorAssemblyInfo.cache
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.RazorAssemblyInfo.cs
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.sourcelink.json
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\staticwebassets.build.json
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\staticwebassets.development.json
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeInfo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeInfo.props
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeInfo.props
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeInfo.props
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\staticwebassets.pack.json
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\scopedcss\bundle\EmployeeInfo.styles.css
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\scopedcss\projectbundle\EmployeeInfo.bundle.scp.css
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.dll
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\refint\EmployeeInfo.dll
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.pdb
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.genruntimeconfig.cache
+E:\WebDev\ASPNETCamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\ref\EmployeeInfo.dll
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\appsettings.Development.json
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\appsettings.json
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\EmployeeInfo.staticwebassets.runtime.json
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\EmployeeInfo.exe
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\EmployeeInfo.deps.json
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\EmployeeInfo.runtimeconfig.json
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\EmployeeInfo.dll
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\bin\Debug\net8.0\EmployeeInfo.pdb
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.AssemblyInfoInputs.cache
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.AssemblyInfo.cs
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.csproj.CoreCompileInputs.cache
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.MvcApplicationPartsAssemblyInfo.cache
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.RazorAssemblyInfo.cache
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.RazorAssemblyInfo.cs
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\staticwebassets\msbuild.EmployeeInfo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\staticwebassets\msbuild.build.EmployeeInfo.props
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeInfo.props
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EmployeeInfo.props
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\scopedcss\bundle\EmployeeInfo.styles.css
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\scopedcss\projectbundle\EmployeeInfo.bundle.scp.css
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.dll
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\refint\EmployeeInfo.dll
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.pdb
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\EmployeeInfo.genruntimeconfig.cache
+D:\Tareq\Fullstack Bootcamp\Assignments\EmployeeInfo\EmployeeInfo\obj\Debug\net8.0\ref\EmployeeInfo.dll

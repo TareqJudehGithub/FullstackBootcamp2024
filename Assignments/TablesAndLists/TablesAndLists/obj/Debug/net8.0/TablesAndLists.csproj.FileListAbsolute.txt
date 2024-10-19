@@ -1,0 +1,60 @@
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\appsettings.Development.json
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\appsettings.json
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\TablesAndLists.staticwebassets.runtime.json
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\TablesAndLists.exe
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\TablesAndLists.deps.json
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\TablesAndLists.runtimeconfig.json
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\TablesAndLists.dll
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\TablesAndLists.pdb
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.AssemblyInfoInputs.cache
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.AssemblyInfo.cs
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.csproj.CoreCompileInputs.cache
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.MvcApplicationPartsAssemblyInfo.cache
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.RazorAssemblyInfo.cache
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.RazorAssemblyInfo.cs
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\staticwebassets.build.json
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\staticwebassets.development.json
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\staticwebassets\msbuild.TablesAndLists.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\staticwebassets\msbuild.build.TablesAndLists.props
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TablesAndLists.props
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TablesAndLists.props
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\staticwebassets.pack.json
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\scopedcss\bundle\TablesAndLists.styles.css
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\scopedcss\projectbundle\TablesAndLists.bundle.scp.css
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.dll
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\refint\TablesAndLists.dll
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.pdb
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.genruntimeconfig.cache
+E:\WebDev\ASPNETCamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\ref\TablesAndLists.dll
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\appsettings.Development.json
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\appsettings.json
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\TablesAndLists.staticwebassets.runtime.json
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\TablesAndLists.exe
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\TablesAndLists.deps.json
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\TablesAndLists.runtimeconfig.json
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\TablesAndLists.dll
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\bin\Debug\net8.0\TablesAndLists.pdb
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.AssemblyInfoInputs.cache
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.AssemblyInfo.cs
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.csproj.CoreCompileInputs.cache
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.MvcApplicationPartsAssemblyInfo.cache
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.RazorAssemblyInfo.cache
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.RazorAssemblyInfo.cs
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\staticwebassets\msbuild.TablesAndLists.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\staticwebassets\msbuild.build.TablesAndLists.props
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TablesAndLists.props
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TablesAndLists.props
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\scopedcss\bundle\TablesAndLists.styles.css
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\scopedcss\projectbundle\TablesAndLists.bundle.scp.css
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.dll
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\refint\TablesAndLists.dll
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.pdb
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\TablesAndLists.genruntimeconfig.cache
+D:\Tareq\Fullstack Bootcamp\Assignments\TablesAndLists\TablesAndLists\obj\Debug\net8.0\ref\TablesAndLists.dll
