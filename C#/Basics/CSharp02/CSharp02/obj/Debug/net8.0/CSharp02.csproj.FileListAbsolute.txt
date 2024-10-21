@@ -1,0 +1,15 @@
+D:\Tareq\Fullstack Bootcamp\C#\Basics\CSharp02\CSharp02\bin\Debug\net8.0\CSharp02.exe
+D:\Tareq\Fullstack Bootcamp\C#\Basics\CSharp02\CSharp02\bin\Debug\net8.0\CSharp02.deps.json
+D:\Tareq\Fullstack Bootcamp\C#\Basics\CSharp02\CSharp02\bin\Debug\net8.0\CSharp02.runtimeconfig.json
+D:\Tareq\Fullstack Bootcamp\C#\Basics\CSharp02\CSharp02\bin\Debug\net8.0\CSharp02.dll
+D:\Tareq\Fullstack Bootcamp\C#\Basics\CSharp02\CSharp02\bin\Debug\net8.0\CSharp02.pdb
+D:\Tareq\Fullstack Bootcamp\C#\Basics\CSharp02\CSharp02\obj\Debug\net8.0\CSharp02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tareq\Fullstack Bootcamp\C#\Basics\CSharp02\CSharp02\obj\Debug\net8.0\CSharp02.AssemblyInfoInputs.cache
+D:\Tareq\Fullstack Bootcamp\C#\Basics\CSharp02\CSharp02\obj\Debug\net8.0\CSharp02.AssemblyInfo.cs
+D:\Tareq\Fullstack Bootcamp\C#\Basics\CSharp02\CSharp02\obj\Debug\net8.0\CSharp02.csproj.CoreCompileInputs.cache
+D:\Tareq\Fullstack Bootcamp\C#\Basics\CSharp02\CSharp02\obj\Debug\net8.0\CSharp02.sourcelink.json
+D:\Tareq\Fullstack Bootcamp\C#\Basics\CSharp02\CSharp02\obj\Debug\net8.0\CSharp02.dll
+D:\Tareq\Fullstack Bootcamp\C#\Basics\CSharp02\CSharp02\obj\Debug\net8.0\refint\CSharp02.dll
+D:\Tareq\Fullstack Bootcamp\C#\Basics\CSharp02\CSharp02\obj\Debug\net8.0\CSharp02.pdb
+D:\Tareq\Fullstack Bootcamp\C#\Basics\CSharp02\CSharp02\obj\Debug\net8.0\CSharp02.genruntimeconfig.cache
+D:\Tareq\Fullstack Bootcamp\C#\Basics\CSharp02\CSharp02\obj\Debug\net8.0\ref\CSharp02.dll
