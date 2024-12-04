@@ -1,0 +1,15 @@
+E:\WebDev\MyFullstack\C#\CSharpBasics\AssignmentCalculator\bin\Debug\net8.0\AssignmentCalculator.exe
+E:\WebDev\MyFullstack\C#\CSharpBasics\AssignmentCalculator\bin\Debug\net8.0\AssignmentCalculator.deps.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\AssignmentCalculator\bin\Debug\net8.0\AssignmentCalculator.runtimeconfig.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\AssignmentCalculator\bin\Debug\net8.0\AssignmentCalculator.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\AssignmentCalculator\bin\Debug\net8.0\AssignmentCalculator.pdb
+E:\WebDev\MyFullstack\C#\CSharpBasics\AssignmentCalculator\obj\Debug\net8.0\AssignmentCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\MyFullstack\C#\CSharpBasics\AssignmentCalculator\obj\Debug\net8.0\AssignmentCalculator.AssemblyInfoInputs.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\AssignmentCalculator\obj\Debug\net8.0\AssignmentCalculator.AssemblyInfo.cs
+E:\WebDev\MyFullstack\C#\CSharpBasics\AssignmentCalculator\obj\Debug\net8.0\AssignmentCalculator.csproj.CoreCompileInputs.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\AssignmentCalculator\obj\Debug\net8.0\AssignmentCalculator.sourcelink.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\AssignmentCalculator\obj\Debug\net8.0\AssignmentCalculator.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\AssignmentCalculator\obj\Debug\net8.0\refint\AssignmentCalculator.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\AssignmentCalculator\obj\Debug\net8.0\AssignmentCalculator.pdb
+E:\WebDev\MyFullstack\C#\CSharpBasics\AssignmentCalculator\obj\Debug\net8.0\AssignmentCalculator.genruntimeconfig.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\AssignmentCalculator\obj\Debug\net8.0\ref\AssignmentCalculator.dll

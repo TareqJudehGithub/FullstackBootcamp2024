@@ -1,0 +1,55 @@
+﻿@model Student
+
+<h2>Edit Student @Model.StudentName details</h2>
+
+<form method="post" asp-action="Edit">    
+
+    <div class="mb-3">
+        <label asp-for="StudentName" class="form-label">Name</label>
+        <input type="text" class="form-control" asp-for="StudentName">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="StudentEmail" class="form-label">Email</label>
+        <input type="text" class="form-control" asp-for="StudentEmail">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="StudentNationality" class="form-label">Nationality</label>
+        <input type="text" class="form-control" asp-for="StudentNationality">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="City" class="form-label">City</label>
+        <input type="text" class="form-control" asp-for="City">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Address" class="form-label">Address</label>
+        <input type="text" class="form-control" asp-for="Address">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="DOB" class="form-label">Date of Birth</label>
+        <input type="date" class="form-control" asp-for="DOB">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="IsActive" class="form-label">Active</label>
+        <input class="form-check-input m-1" type="checkbox" value=""
+               aria-label="Checkbox for following text input"
+               asp-for="IsActive">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="HighSchool" class="form-label">High School</label>
+        <input type="text" class="form-control" asp-for="HighSchool">
+    </div>
+
+    <div class="mb-3">
+        <button class="btn btn-outline-primary" type="submit">Save</button>
+        <a class="btn btn-outline-danger" asp-action="Index">Cancel</a>
+    </div>
+
+</form>
+

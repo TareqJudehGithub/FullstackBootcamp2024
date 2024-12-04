@@ -1,0 +1,15 @@
+E:\WebDev\MyFullstack\C#\CSharpBasics\Arrays\bin\Debug\net8.0\Arrays.exe
+E:\WebDev\MyFullstack\C#\CSharpBasics\Arrays\bin\Debug\net8.0\Arrays.deps.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\Arrays\bin\Debug\net8.0\Arrays.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\Arrays\bin\Debug\net8.0\Arrays.pdb
+E:\WebDev\MyFullstack\C#\CSharpBasics\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\MyFullstack\C#\CSharpBasics\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+E:\WebDev\MyFullstack\C#\CSharpBasics\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\Arrays\obj\Debug\net8.0\Arrays.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\Arrays\obj\Debug\net8.0\Arrays.pdb
+E:\WebDev\MyFullstack\C#\CSharpBasics\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\Arrays\obj\Debug\net8.0\ref\Arrays.dll

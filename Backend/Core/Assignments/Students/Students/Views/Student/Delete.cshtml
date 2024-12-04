@@ -1,0 +1,48 @@
+﻿@model Student
+
+<h4>Delete Student @Model.StudentName?</h4>
+
+<table class="table m-5">
+    <thead class="bg-light">
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Email</th>
+            <th scope="col">Nationality</th>
+            <th scope="col">City</th>
+            <th scope="col">Adress</th>
+            <th scope="col">Date of Birth</th>
+            <th scope="col">Active</th>
+            <th scope="col">High School</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        <tr>
+            <th scope="row">@Html.DisplayFor(stu => @Model.Id)</th>
+            <td>@Html.DisplayFor(stu => @Model.StudentName)</td>
+            <td>@Html.DisplayFor(stu => @Model.StudentEmail)</td>
+            <td>@Html.DisplayFor(stu => @Model.StudentNationality)</td>
+            <td>@Html.DisplayFor(stu => @Model.City)</td>
+            <td>@Html.DisplayFor(stu => @Model.Address)</td>
+            <td>@Html.DisplayFor(stu => @Model.DOB)</td>
+            <td>@Html.DisplayFor(stu => @Model.IsActive)</td>
+            <td>@Html.DisplayFor(stu => @Model.HighSchool)</td>
+
+            <td scope="row">
+                <form asp-action="Delete" method="post">
+                    <button type="submit"
+                            class="btn btn-outline-danger">
+                        Delete
+                    </button>
+                    <a class="btn btn-outline-info"
+                       asp-action="Index">
+                        Cancel
+                    </a>
+                </form>
+            </td>
+
+        </tr>
+
+    </tbody>

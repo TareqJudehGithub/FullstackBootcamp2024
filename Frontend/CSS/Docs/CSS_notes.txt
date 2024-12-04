@@ -1,0 +1,135 @@
+
+CSS notes
+
+# CSS rule
+selector {            # declaration block { property: value }
+  property: value;    # "property: value" are declaration/style
+}
+
+class selector
+.class-name { 
+}
+
+id selector
+#class-name {  
+}
+
+element selector 
+h1 {
+  
+}
+
+h1 {                  
+  color: blue;
+  text-align: center;
+  font-size: 20px;
+}
+
+inline css, internal css and external css
+
+font-size: 16px (default size)
+
+Descended selector:
+footer p {
+	font-size: 15px;
+}
+
+- Ids are good for single elements.
+#id-name {
+  font-size: 16px;
+}
+
+- class are used for multiple elements
+- lists elements are good example for using class attribute.
+.class-name {
+  font-size: 16px;
+}
+
+Notes:  In the real word, we use classes and not ids. classes are more
+practical.
+
+
+
+Colors in CSS
+  The RGB (red, green, blue) model
+  
+  red (pure red)  255, 0, 0
+  green (pure green) 0, 255, 0
+  blue  (pure blue) 0, 0, 255
+  white 255, 255, 255
+  black 0, 0, 0
+
+  magenta (mix of red and blue) (255, 0, 255)
+  light-blue (0, 255, 255) 
+  yellow (255, 255, 0)
+
+  rgb (255, 0, 0)   red using rgb notation/function
+  rgba (255, 0, 0, 0.5)   red using rgb notation/function and 'alpha' transparency.
+  'alpha' transparency  0.1 - 1.0
+
+  Hexadecimal notation
+    Hexadecimal notation starts with #
+    # 000  black
+    # fff  white
+
+  In practice Hexadecimal notation is used, and when transparency is needed, 
+  rgba is used.
+
+  popular grey color: #444444   or rgb(69, 69, 69)
+  popular light grey color: #b7b7b7   or rgb(183, 183, 183)
+
+  
+  shorthand property: a property for defining more than one property.
+    border: 1px solid #1098ad;
+  
+
+  Pseudo classes
+
+    select first li element using first-child
+    li:first-child {
+      font-weight: bold;
+    }
+
+  select last child
+  li:last-child {
+    font-style: italic;
+  }
+  select specific child
+  li:nth-child(2) {
+    color: rgb(255, 0, 255);
+  }
+  select odd elements 
+  li:nth-child(odd) {
+    color: rgb(0, 255, 255);
+  }
+
+  select last paragraph (p) inside article element
+  article p:last-child {
+    color: red;
+  }
+
+  /* 
+Links
+LVHA => link, visited, hover, and active.
+*/
+
+/* style anchors only with href attribute */
+a:link,
+a:visited {
+	color: #1098ad;
+	text-decoration: none;
+}
+a:hover {
+	color: orangered;
+	font-weight: bold;
+	text-decoration: underline solid orangered; /* text-decoration short hard */
+
+	/* text-decoration-style: solid;
+	text-decoration-color: orangered; */
+}
+
+a:active {
+	/* when clicking state */
+	background-color: #000;
+	font-style: italic;
+}

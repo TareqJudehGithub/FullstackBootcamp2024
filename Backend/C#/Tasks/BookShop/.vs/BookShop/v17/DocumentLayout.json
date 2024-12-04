@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WebDev\\MyFullstack\\C#\\Tasks\\BookShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F75FC88B-02EF-4337-8A87-485A3C461353}|BookShop\\BookShop.csproj|e:\\webdev\\myfullstack\\c#\\tasks\\bookshop\\bookshop\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F75FC88B-02EF-4337-8A87-485A3C461353}|BookShop\\BookShop.csproj|solutionrelative:bookshop\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\C#\\Tasks\\BookShop\\BookShop\\Book.cs",
+              "RelativeDocumentMoniker": "BookShop\\Book.cs",
+              "ToolTip": "E:\\WebDev\\MyFullstack\\C#\\Tasks\\BookShop\\BookShop\\Book.cs",
+              "RelativeToolTip": "BookShop\\Book.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAGkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:06:01.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

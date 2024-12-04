@@ -1,0 +1,15 @@
+E:\WebDev\MyFullstack\C#\CSharpBasics\Playground\bin\Debug\net9.0\Playground.exe
+E:\WebDev\MyFullstack\C#\CSharpBasics\Playground\bin\Debug\net9.0\Playground.deps.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\Playground\bin\Debug\net9.0\Playground.runtimeconfig.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\Playground\bin\Debug\net9.0\Playground.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\Playground\bin\Debug\net9.0\Playground.pdb
+E:\WebDev\MyFullstack\C#\CSharpBasics\Playground\obj\Debug\net9.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\MyFullstack\C#\CSharpBasics\Playground\obj\Debug\net9.0\Playground.AssemblyInfoInputs.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\Playground\obj\Debug\net9.0\Playground.AssemblyInfo.cs
+E:\WebDev\MyFullstack\C#\CSharpBasics\Playground\obj\Debug\net9.0\Playground.csproj.CoreCompileInputs.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\Playground\obj\Debug\net9.0\Playground.sourcelink.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\Playground\obj\Debug\net9.0\Playground.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\Playground\obj\Debug\net9.0\refint\Playground.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\Playground\obj\Debug\net9.0\Playground.pdb
+E:\WebDev\MyFullstack\C#\CSharpBasics\Playground\obj\Debug\net9.0\Playground.genruntimeconfig.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\Playground\obj\Debug\net9.0\ref\Playground.dll

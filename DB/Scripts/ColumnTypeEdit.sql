@@ -1,0 +1,12 @@
+ -- EDIT Column data type
+ ALTER TABLE Employees 
+ ALTER COLUMN JobTitle VARCHAR(20);
+
+
+-- UPDATE column data type
+ALTER TABLE Students
+ALTER COLUMN City VARCHAR(50) NOT NULL;
+
+ALTER TABLE Courses
+ALTER COLUMN EndDate DATE NOT NULL;
+

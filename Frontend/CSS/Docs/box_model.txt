@@ -1,0 +1,13 @@
+Box Model
+
+ Content:  Could be on the form of Text, image, etc.
+ Content Width & Height:  width and height of the content.
+ Element Width & Height: borders(bottom and top) + paddings + content.
+ Border: A line around the element from the inside.
+ Padding: invisible (empty) space around the content , inside of element.
+ Margin: Space outside of the element, and between different elements.
+ Fill area: Area that gets filled with BG color or BG image.
+
+Tips:
+ - Don't use margin-bottom and margin-top in the same selector, use only 
+ one of them, or else we will be getting a collapsing margins.

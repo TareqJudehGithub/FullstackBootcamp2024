@@ -1,0 +1,18 @@
+Semantic HTML - HTML Structure
+- Semantic HTML gives meaning to the HTML elements.
+- Back before HTML V5, we used to use <div> tags to describe the contents.
+  - Semantic HTML helps search engines search in looking up contents in a more clear way.
+
+  <html>
+    <head></head>
+    <body>
+      <header>
+        <nav></nav> - The nav tag here describes the content and gives it meaning.
+      </header>
+      <article>
+        - The <article> tag can contain <header> tag also.
+        </article> - the main element/part of the webpage.
+        <aside></aside> - Used as a secondary element for secondary information.
+        <footer></footer>
+    </body>
+  </html>

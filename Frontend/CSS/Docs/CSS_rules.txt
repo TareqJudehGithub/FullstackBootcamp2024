@@ -1,0 +1,11 @@
+
+CSS applied rules selectors
+
+ 1. !important  and Inline style
+ 2.ID
+ 3. class
+ 4. Element
+ 5. Universal  selector *
+
+ No 1 is it recommended. The most common used in practical is the use of 
+ classes.

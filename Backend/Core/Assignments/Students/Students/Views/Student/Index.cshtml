@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Student>
+
+<h1>Student Info</h1>
+
+<a asp-action="Create" class="btn btn-outline-info m-5">Add a new student</a>
+
+<table class="table m-5">
+    <thead class="bg-light">
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col"></th>
+            <th scope="col">Email</th>
+            <th scope="col">Nationality</th>
+            <th scope="col">City</th>
+            <th scope="col">Address</th>
+            <th scope="col">Date of Birth</th>
+            <th scope="col">Active</th>
+            <th scope="col">High School</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@Html.DisplayFor(Student => item.Id)</th>
+                <td>@Html.DisplayFor(Student => item.StudentName)</td>
+                <td>@Html.DisplayFor(Student => item.StudentEmail)</td>
+                <td>@Html.DisplayFor(Student => item.StudentNationality)</td>
+                <td>@Html.DisplayFor(Student => item.City)</td>
+                <td>@Html.DisplayFor(Student => item.Address)</td>
+                <td>@Html.DisplayFor(Student => item.DOB)</td>
+                <td>@Html.DisplayFor(Student => item.IsActive)</td>
+                <td>@Html.DisplayFor(Student => item.HighSchool)</td>
+                <td>
+
+                    <a class="btn btn-outline-info"
+                       asp-action="Edit"
+                       asp-route-id="@item.Id">
+                        Edit
+                    </a>
+
+                    <a class="btn btn-outline-danger"
+                       asp-action="Delete"
+                       asp-route-id="@item.Id"
+                       asp-controller="Student"
+                       onclick="return confirm('Delete @item.StudentName?')">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

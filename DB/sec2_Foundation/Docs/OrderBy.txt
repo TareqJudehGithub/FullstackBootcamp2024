@@ -1,0 +1,6 @@
+ORDER BY
+ 
+- There is no relevance to the order of the tuples in a set.
+- Rows in a SQL table conceptually have no definite order to them.
+- ORDER BY is a visualization tool that sorts out data in an ascending 
+  or a descending order.

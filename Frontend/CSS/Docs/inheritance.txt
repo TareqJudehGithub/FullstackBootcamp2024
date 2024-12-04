@@ -1,0 +1,7 @@
+CSS inheritance
+
+- CSS selectors inherit style from their parent elements.
+- An inherited property can be overwritten through assigning it a new 
+  CSS property.
+- ONLY text/font properties get inherited, properties like margin and padding
+  don't get inherited.

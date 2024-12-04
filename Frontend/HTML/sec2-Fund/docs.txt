@@ -1,0 +1,16 @@
+HTML Fundamentals
+
+Tag                   Description
+<!DOCTYPE html>       Tells the browser that we are using HTML code.
+<html>                The parent element of both the head and the body elements.
+
+Attributes
+ - A pieces of data that describes elements.
+ - lang="en" inside the html tag, indicating that the language used is English.
+ - <meta charset="UTF-8" />
+ <alt>  The alt attribute can help search engines to actually know whats in the image, 
+        also alt allows screen reader to describe images for people with sight disability.
+
+- HTML Entities
+ - HTML entity is a reserved character that must be replaced with entities.
+  Examples:   &copy;

@@ -1,0 +1,30 @@
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.exe
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.deps.json
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.runtimeconfig.json
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.dll
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.pdb
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.AssemblyInfoInputs.cache
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.AssemblyInfo.cs
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.csproj.CoreCompileInputs.cache
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.sourcelink.json
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.dll
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\CSharpBasics\obj\Debug\net8.0\refint\CSharpBasics.dll
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.pdb
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.genruntimeconfig.cache
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\CSharpBasics\obj\Debug\net8.0\ref\CSharpBasics.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.exe
+E:\WebDev\MyFullstack\C#\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.deps.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.runtimeconfig.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\CSharpBasics\bin\Debug\net8.0\CSharpBasics.pdb
+E:\WebDev\MyFullstack\C#\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\MyFullstack\C#\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.AssemblyInfoInputs.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.AssemblyInfo.cs
+E:\WebDev\MyFullstack\C#\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.csproj.CoreCompileInputs.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.sourcelink.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\CSharpBasics\obj\Debug\net8.0\refint\CSharpBasics.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.pdb
+E:\WebDev\MyFullstack\C#\CSharpBasics\CSharpBasics\obj\Debug\net8.0\CSharpBasics.genruntimeconfig.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\CSharpBasics\obj\Debug\net8.0\ref\CSharpBasics.dll

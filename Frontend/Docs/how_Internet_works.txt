@@ -1,0 +1,30 @@
+How exactly does the Internet work?
+ - The user type in the website address in the browser.
+ - The browser then requests that webpage from a web server.
+ - The web server (a back-end server) in return sends a response and takes all 
+   files requested (html, css, images and js) and then send a response back to the 
+   browser.
+ - The browser only understands html, css and js.
+ - The browser takes these files sent by the web server and render the webpage
+   requested by the user.
+ - These steps above are known as Front-End web development.
+
+
+Static vs Dynamic website
+ - Static website files are available on the server waiting users requests.
+ - Dynamic website on the other hand, is the concept of files requested need to 
+   be generated first by some application before being sent to the user.
+ 
+HTML: The webpage nouns, is the building block of the website.
+      Content
+CSS:  The webpage adjectives, gives the website style and colors.
+      Presentation.    
+JS:  The webpage verbs, gives a website interactivity and functionality.
+      Dynamic effects and web application.
+
+
+Code editor. A program that allows us to type code.
+
+
+
+   

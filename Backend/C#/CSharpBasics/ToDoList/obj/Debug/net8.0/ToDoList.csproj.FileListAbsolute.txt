@@ -1,0 +1,30 @@
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\ToDoList\bin\Debug\net8.0\ToDoList.exe
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\ToDoList\bin\Debug\net8.0\ToDoList.deps.json
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\ToDoList\bin\Debug\net8.0\ToDoList.runtimeconfig.json
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\ToDoList\bin\Debug\net8.0\ToDoList.dll
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\ToDoList\bin\Debug\net8.0\ToDoList.pdb
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfoInputs.cache
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfo.cs
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.csproj.CoreCompileInputs.cache
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.sourcelink.json
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.dll
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\ToDoList\obj\Debug\net8.0\refint\ToDoList.dll
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.pdb
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.genruntimeconfig.cache
+E:\WebDev\MyFullstack\C#\New folder\CSharpBasics\ToDoList\obj\Debug\net8.0\ref\ToDoList.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\ToDoList\bin\Debug\net8.0\ToDoList.exe
+E:\WebDev\MyFullstack\C#\CSharpBasics\ToDoList\bin\Debug\net8.0\ToDoList.deps.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\ToDoList\bin\Debug\net8.0\ToDoList.runtimeconfig.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\ToDoList\bin\Debug\net8.0\ToDoList.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\ToDoList\bin\Debug\net8.0\ToDoList.pdb
+E:\WebDev\MyFullstack\C#\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\MyFullstack\C#\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfoInputs.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.AssemblyInfo.cs
+E:\WebDev\MyFullstack\C#\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.csproj.CoreCompileInputs.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.sourcelink.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\ToDoList\obj\Debug\net8.0\refint\ToDoList.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.pdb
+E:\WebDev\MyFullstack\C#\CSharpBasics\ToDoList\obj\Debug\net8.0\ToDoList.genruntimeconfig.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\ToDoList\obj\Debug\net8.0\ref\ToDoList.dll

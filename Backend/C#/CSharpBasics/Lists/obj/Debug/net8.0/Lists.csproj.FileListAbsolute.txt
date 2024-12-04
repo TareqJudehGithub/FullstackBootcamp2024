@@ -1,0 +1,15 @@
+E:\WebDev\MyFullstack\C#\CSharpBasics\Lists\bin\Debug\net8.0\Lists.exe
+E:\WebDev\MyFullstack\C#\CSharpBasics\Lists\bin\Debug\net8.0\Lists.deps.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\Lists\bin\Debug\net8.0\Lists.runtimeconfig.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\Lists\bin\Debug\net8.0\Lists.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\Lists\bin\Debug\net8.0\Lists.pdb
+E:\WebDev\MyFullstack\C#\CSharpBasics\Lists\obj\Debug\net8.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+E:\WebDev\MyFullstack\C#\CSharpBasics\Lists\obj\Debug\net8.0\Lists.AssemblyInfoInputs.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\Lists\obj\Debug\net8.0\Lists.AssemblyInfo.cs
+E:\WebDev\MyFullstack\C#\CSharpBasics\Lists\obj\Debug\net8.0\Lists.csproj.CoreCompileInputs.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\Lists\obj\Debug\net8.0\Lists.sourcelink.json
+E:\WebDev\MyFullstack\C#\CSharpBasics\Lists\obj\Debug\net8.0\Lists.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\Lists\obj\Debug\net8.0\refint\Lists.dll
+E:\WebDev\MyFullstack\C#\CSharpBasics\Lists\obj\Debug\net8.0\Lists.pdb
+E:\WebDev\MyFullstack\C#\CSharpBasics\Lists\obj\Debug\net8.0\Lists.genruntimeconfig.cache
+E:\WebDev\MyFullstack\C#\CSharpBasics\Lists\obj\Debug\net8.0\ref\Lists.dll
