@@ -4,6 +4,7 @@ using HumanResourcesApp.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HumanResourcesApp.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20241208171051_PayrollTable")]
+    partial class PayrollTable
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -81,7 +84,6 @@ namespace HumanResourcesApp.Migrations
 
                     b.Property<string>("CreatedBy")
                         .IsRequired()
-                        .HasMaxLength(50)
                         .HasColumnType("NVARCHAR(50)");
 
                     b.Property<int>("EmployeeID")
@@ -99,15 +101,14 @@ namespace HumanResourcesApp.Migrations
                     b.Property<decimal>("SocialSecurityAmount")
                         .HasColumnType("DECIMAL(18,3)");
 
-                    b.Property<DateTime?>("TS")
-                        .IsRequired()
+                    b.Property<DateTime>("TS")
                         .HasColumnType("DATETIME");
 
                     b.HasKey("Id");
 
                     b.HasIndex("EmployeeID");
 
-                    b.ToTable("Payrolls", "dbo");
+                    b.ToTable("Payrolls");
                 });
 
             modelBuilder.Entity("HumanResourcesApp.Models.Employee", b =>

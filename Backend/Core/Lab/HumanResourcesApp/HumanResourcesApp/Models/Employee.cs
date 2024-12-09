@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace HumanResourcesApp.Models
 {
+
     public class Employee
     {
         // Data Annotation

@@ -1,0 +1,120 @@
+﻿@model Payroll
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    @if (Model == null)
+    {
+        ViewData["ActionName"] = "Create";
+    }
+    else
+    {
+        ViewData["ActionName"] = "Edit";
+    }
+
+    <title>@ViewData["ActionName"]</title>
+</head>
+<body>
+    <header>
+    <h2 class="mb-5">@ViewData["ActionName"] Menu</h2>
+    </header>
+
+    <main>
+
+    
+            <form asp-action="@ViewData["ActionName"]" method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="mb-3">
+                    <label asp-for="EmployeeID" class="form-label">
+
+                    </label>
+                    <select class="form-control"
+                            asp-for="EmployeeID"
+                            asp-items="@ViewBag.EmployeesList">
+                        <option value="">Select Employee</option>
+                    </select>
+                    <span class="text-danger" asp-validation-for="EmployeeID"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="PayrollDate" class="form-label">
+                        @Html.DisplayNameFor(item => item.PayrollDate)
+                    </label>
+                    <input type="date" class="form-control" asp-for="PayrollDate">
+                    <span class="text-danger" asp-validation-for="PayrollDate"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="Bonus" class="form-label">
+                        @Html.DisplayNameFor(item => item.Bonus)
+                    </label>
+                    <input type="number" class="form-control" asp-for="Bonus">
+                    <span class="text-danger" asp-validation-for="Bonus"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="SocialSecurityAmount" class="form-label">
+                        @Html.DisplayNameFor(item => item.SocialSecurityAmount)
+                    </label>
+                    <input type="number" class="form-control" asp-for="SocialSecurityAmount">
+                    <span class="text-danger" asp-validation-for="SocialSecurityAmount"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label" asp-for="Leaves">@Html.DisplayNameFor(item => item.Leaves)</label>
+                    <input class="form-control" type="number" asp-for="Leaves" />
+                    <span class="text-danger" asp-validation-for="Leaves"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label" asp-for="NetSalary">@Html.DisplayNameFor(item => item.NetSalary)</label>
+                    <input class="form-control" type="number" asp-for="NetSalary" />
+                    <span class="text-danger" asp-validation-for="NetSalary"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="TS" class="form-label">
+                        @Html.DisplayNameFor(item => item.TS)
+                    </label>
+                    <input type="date" class="form-control" asp-for="TS" readonly>
+                    <span class="text-danger" asp-validation-for="TS"></span>
+                </div>
+
+                <div class="mb-5">
+                    <label asp-for="CreatedBy" class="form-label">
+                        @Html.DisplayNameFor(item => item.CreatedBy)
+                    </label>
+
+                    <input class="form-control"
+                           asp-for="CreatedBy"
+                         readonly />
+
+                    <span class="text-danger" asp-validation-for="CreatedBy"></span>
+                </div>
+
+                <div class="mb-3">
+                    @if (ViewData["ActionName"] == "Create")
+                    {
+                        <button class="btn btn-outline-info" type="submit">Add</button>
+                    }
+                    else
+                    {
+                        <button class="btn btn-outline-info" type="submit">Save</button>
+                    }
+                    <a class="btn btn-outline-danger"
+                       asp-action="Index">
+                        Cancel
+                    </a>
+                </div>
+            </form>
+        </main>
+
+</body>
+</html>
+
+
+@section Scripts {
+    @{ 
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
