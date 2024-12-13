@@ -1,5 +1,6 @@
 ﻿using HumanResourcesApp.Data;
 using HumanResourcesApp.Models;
+using HumanResourcesApp.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
@@ -88,6 +89,7 @@ namespace HumanResourcesApp.Controllers
             emp.EmployeeEmail = employee.EmployeeEmail;
             emp.Department = employee.Department;
             emp.HiringDate = employee.HiringDate;
+            emp.BasicSalary = employee.BasicSalary;
 
             _dbContext.SaveChanges();
 
@@ -105,6 +107,23 @@ namespace HumanResourcesApp.Controllers
                 _dbContext.SaveChanges();
             }
             return RedirectToAction(nameof(Index));
+        }
+
+        public IActionResult EmployeesReport()
+        {
+            var employees = _dbContext.Employees.ToList();
+            var payrolls = _dbContext.Payrolls.ToList();
+
+            var model = new EmployeeReportViewModel
+            {
+                EmployeeCount = employees.Count(),
+                TotalBasicSalries = employees.Sum(emp => emp.BasicSalary),
+                TotalSSA = payrolls.Sum(emp => emp.SocialSecurityAmount),
+                TotalBonuses = payrolls.Sum(emp => emp.Bonus),
+                TotalNetSalaries = payrolls.Sum(emp => emp.NetSalary)
+            };
+
+            return View(model);
         }
     }
 }

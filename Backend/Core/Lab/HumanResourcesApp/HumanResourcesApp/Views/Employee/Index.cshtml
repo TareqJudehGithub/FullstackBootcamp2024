@@ -12,6 +12,7 @@
             <th scope="col">@Html.DisplayNameFor(emp => emp.EmployeeEmail)</th>
             <th scope="col">@Html.DisplayNameFor(emp => emp.Department.DepartmentName)</th>
             <th scope="col">@Html.DisplayNameFor(emp => emp.HiringDate)</th>
+            <th scope="col">@Html.DisplayNameFor(emp => emp.BasicSalary)</th>
             <th scope="col">Action</th>
         </tr>        
     </thead>
@@ -24,6 +25,7 @@
                     <td>@Html.DisplayFor(Employee => item.EmployeeEmail)</td>
                     <td>@Html.DisplayFor(Employee => item.Department.DepartmentName)</td>  
                     <td>@Html.DisplayFor(Employee => item.HiringDate)</td>
+                    <td>@Html.DisplayFor(Employee => item.BasicSalary)</td>
                     <td>
 
                         <a 

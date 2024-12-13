@@ -45,11 +45,24 @@ namespace HumanResourcesApp.Controllers
         {
             payroll.CreatedBy = "Admin";
             payroll.TS = DateTime.Now;
+            CalculateNetSalary(payroll);
 
             _dbContext.Payrolls.Add(payroll);
             _dbContext.SaveChanges();
 
             return RedirectToAction("Index");
+        }
+        public void CalculateNetSalary(Payroll payroll)
+        {
+            var employee = _dbContext.Employees.FirstOrDefault(emp => emp.Id == payroll.EmployeeID);
+
+            if (employee != null)
+            {
+                payroll.BasicSalary = employee.BasicSalary;
+
+                var leaves = Convert.ToDecimal(payroll.Leaves) * (employee.BasicSalary / 30 / 8);
+                payroll.NetSalary = employee.BasicSalary + payroll.Bonus - payroll.SocialSecurityAmount - leaves;
+            }
         }
 
         [HttpGet]
@@ -92,6 +105,15 @@ namespace HumanResourcesApp.Controllers
                 _dbContext.SaveChanges();
             }
             return RedirectToAction(nameof(Index));
+        }
+
+        // BasicSalary - Jquery: Ajax function url
+        [HttpGet]
+        public ActionResult<decimal> GetBasicSalary(int employeeId)
+        {
+            var basicSalary = _dbContext.Employees.FirstOrDefault(emp => emp.Id == employeeId).BasicSalary;
+
+            return basicSalary;
         }
     }
 }

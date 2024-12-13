@@ -1,0 +1,25 @@
+﻿@model HumanResourcesApp.ViewModels.EmployeeReportViewModel
+
+<title>@{ViewData["Title"] = "Reports";}</title>
+<h1>Employee Reports</h1>
+
+
+<table class="table m-5">
+    <thead class="bg-light">
+        <tr>
+            <th scope="col">@Html.DisplayNameFor(report => report.EmployeeCount)</th>
+            <th scope="col">@Html.DisplayNameFor(report => report.TotalSSA)</th>
+            <th scope="col">@Html.DisplayNameFor(report => report.TotalBonuses)</th>
+            <th scope="col">@Html.DisplayNameFor(report => report.TotalNetSalaries)</th>          
+        </tr>
+    </thead>
+
+    <tbody>   
+            <tr>
+                <th scope="row">@Html.DisplayFor(report => report.EmployeeCount)</th>
+                <td scope="row">$@Html.DisplayFor(report => report.TotalSSA)</td>
+                <td scope="row">$@Html.DisplayFor(report => report.TotalBonuses)</td>
+                <td scope="row">$@Html.DisplayFor(report =>report.TotalNetSalaries)</td>                
+            </tr>       
+    </tbody>
+</table>

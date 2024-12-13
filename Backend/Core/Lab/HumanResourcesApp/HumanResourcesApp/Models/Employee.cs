@@ -37,5 +37,10 @@ namespace HumanResourcesApp.Models
         [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}")]
         public DateTime HiringDate { get; set; }
 
+        [Required]
+        [Display(Name = "Basic Salary")]
+        [Column(TypeName = "DECIMAL(18,3)")]
+        public decimal BasicSalary { get; set; }
+
     }
 }
