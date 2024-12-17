@@ -1,0 +1,13 @@
+Source Control
+ - Source control management is a method of tracking changes made
+   to application code.
+
+
+Git
+ - Git is distributed version control system that tracks file versions.
+
+GitHub
+ - A poplar source control management.
+ - Great for displaying project portfolio.
+ - Open-source project hosting and participation.
+ 

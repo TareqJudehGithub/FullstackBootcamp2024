@@ -1,0 +1,16 @@
+﻿@model TestViewModel
+
+ @*Page title tab*@
+
+@{ 
+    ViewData["Title"] = "Test View";
+}
+
+
+<h1>Hello From Test Controller</h1>
+<h2>Your name is: @Model.Name</h2>
+
+@if (Model.DateOfBirth.HasValue) // Because DateOfBirth prop in Model is nullable.
+            {
+                <h2>Your DoB is: @Model.DateOfBirth!</h2>
+            }

@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Trevor\\LeaveManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F166698-E9F7-46C2-A50B-E31ABE65300C}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|e:\\webdev\\myfullstack\\backend\\core\\trevor\\leavemanagementsystem\\leavemanagementsystem.web\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F166698-E9F7-46C2-A50B-E31ABE65300C}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F166698-E9F7-46C2-A50B-E31ABE65300C}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|e:\\webdev\\myfullstack\\backend\\core\\trevor\\leavemanagementsystem\\leavemanagementsystem.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F166698-E9F7-46C2-A50B-E31ABE65300C}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F166698-E9F7-46C2-A50B-E31ABE65300C}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|e:\\webdev\\myfullstack\\backend\\core\\trevor\\leavemanagementsystem\\leavemanagementsystem.web\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F166698-E9F7-46C2-A50B-E31ABE65300C}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\views\\test\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F166698-E9F7-46C2-A50B-E31ABE65300C}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|e:\\webdev\\myfullstack\\backend\\core\\trevor\\leavemanagementsystem\\leavemanagementsystem.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F166698-E9F7-46C2-A50B-E31ABE65300C}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F166698-E9F7-46C2-A50B-E31ABE65300C}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|e:\\webdev\\myfullstack\\backend\\core\\trevor\\leavemanagementsystem\\leavemanagementsystem.web\\models\\testviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F166698-E9F7-46C2-A50B-E31ABE65300C}|LeaveManagementSystem.Web\\LeaveManagementSystem.Web.csproj|solutionrelative:leavemanagementsystem.web\\models\\testviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Trevor\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Trevor\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T13:19:54.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Trevor\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Trevor\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T17:56:52.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Trevor\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Controllers\\TestController.cs",
+              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Trevor\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Controllers\\TestController.cs",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T17:28:47.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestViewModel.cs",
+              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Trevor\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Models\\TestViewModel.cs",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Models\\TestViewModel.cs",
+              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Trevor\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Models\\TestViewModel.cs",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Models\\TestViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:36:23.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Trevor\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\Test\\Index.cshtml",
+              "RelativeDocumentMoniker": "LeaveManagementSystem.Web\\Views\\Test\\Index.cshtml",
+              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Trevor\\LeaveManagementSystem\\LeaveManagementSystem.Web\\Views\\Test\\Index.cshtml",
+              "RelativeToolTip": "LeaveManagementSystem.Web\\Views\\Test\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T14:34:10.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
