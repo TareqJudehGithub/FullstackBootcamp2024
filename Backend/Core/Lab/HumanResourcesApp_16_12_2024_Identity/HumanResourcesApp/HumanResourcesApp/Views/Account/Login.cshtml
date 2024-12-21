@@ -1,0 +1,46 @@
+﻿@model LoginViewModel
+
+@*@{
+    Layout = "";
+}
+
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/HumanResourcesApp.styles.css" asp-append-version="true" />*@
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Login Page</title>
+</head>
+<body>
+
+    <h2>Login</h2>
+
+    <form asp-action="Login" method="post">
+        <div class="text-danger" asp-validation-summary="All"></div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Username" class="form-label"></label>
+            <input asp-for="Username" type="text" class="form-control">
+           
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Password" class="form-label"></label>
+            <input asp-for="Password" type="password" class="form-control">
+           
+        </div>
+
+        <div class="mb-3">
+            <input class="btn btn-outline-primary" type="submit">Login</input>
+            <a class="btn btn-link" asp-action="register">Already have an account?</a>
+        </div>
+    </form>
+</body>
+</html>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

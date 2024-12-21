@@ -1,0 +1,32 @@
+﻿@model IEnumerable<RoleViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Role</h1>
+
+<partial name="_RoleForm" model=" new RoleViewModel()" />
+<table class="table m-5">
+
+    <thead class="bg-light">
+        <tr>
+            <th scope="auto">@Html.DisplayNameFor(model => model.RoleName)</th>         
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td scope="row">@Html.DisplayFor(dept => item.RoleName)</td>             
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts
+{
+    @{ 
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,33 @@
+﻿@model Employee
+
+<h2>Delete an employee</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Hiring Date</th>
+            <th scope="col">Department</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>@Model.Id</td>
+            <td>@Model.EmployeeName</td>
+            <td>@Model.HiringDate</td>
+            <td>@Model.DepartmentId</td>
+            <td>
+                <form asp-action="Delete" method="post">
+                    <button 
+                            type="submit"
+                            class="btn btn-outline-danger">Delete</button>
+                    <a class="btn btn-outline-info" asp-action="Index">Cancel</a>
+                </form>
+            </td>
+        </tr>
+
+        
+        
+    </tbody>
+</table>

@@ -1,0 +1,14 @@
+﻿@model AccountingPayroll
+
+<h1>Create Account Payroll</h1>
+
+<form method="post" asp-action="Create" asp-controller="AccountingPayroll">
+<partial name="_Form" model="Model">
+
+</form>
+
+@section Scripts {
+    @{ 
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

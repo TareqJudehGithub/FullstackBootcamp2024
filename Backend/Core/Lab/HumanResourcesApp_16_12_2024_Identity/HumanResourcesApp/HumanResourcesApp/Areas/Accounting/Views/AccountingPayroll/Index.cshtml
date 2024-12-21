@@ -1,0 +1,36 @@
+﻿@model IEnumerable<AccountingPayroll>
+
+<title>@{
+        ViewData["Title"] = "Accounting payroll";
+    }</title>
+<h1>Employee Reports</h1>
+
+<a 
+    class="btn btn-outline-info" 
+    asp-controller="AccountingPayroll" 
+    asp-area="Accounting" asp-action="Create">
+    Add new item
+</a>
+
+<table class="table m-5">
+    <thead class="bg-light">
+        <tr>
+            <th scope="col">@Html.DisplayNameFor(acc => acc.Id)</th>
+            <th scope="col">@Html.DisplayNameFor(acc => acc.PayrollAmount)</th>
+            <th scope="col">@Html.DisplayNameFor(acc => acc.TS)</th>            
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <th scope="row">@Html.DisplayFor(acc => item.Id)</th>
+            <td scope="row">$@Html.DisplayFor(report => item.PayrollAmount)</td>
+            <td scope="row">$@Html.DisplayFor(report => item.TS)</td>            
+        </tr>           
+        }
+    </tbody>
+</table>
+
+

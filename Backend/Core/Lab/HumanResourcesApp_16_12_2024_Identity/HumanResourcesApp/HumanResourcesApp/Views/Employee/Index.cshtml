@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Employee>
+
+    <h1>Employee Info</h1>
+
+<a asp-action="Create" class="btn btn-outline-info m-5">Add a new employee</a>
+
+<table class="table m-5">
+    <thead class="bg-light">
+        <tr>
+            <th scope="col">@Html.DisplayNameFor(emp => emp.Id)</th>
+            <th scope="col">@Html.DisplayNameFor(emp => emp.EmployeeName)</th>
+            <th scope="col">@Html.DisplayNameFor(emp => emp.EmployeeEmail)</th>
+            <th scope="col">@Html.DisplayNameFor(emp => emp.Department.DepartmentName)</th>
+            <th scope="col">@Html.DisplayNameFor(emp => emp.HiringDate)</th>
+            <th scope="col">@Html.DisplayNameFor(emp => emp.BasicSalary)</th>
+            <th scope="col">Action</th>
+        </tr>        
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+            {
+                <tr>
+                    <th scope="row">@Html.DisplayFor(Employee => item.Id)</th>
+                    <td>@Html.DisplayFor(Employee => item.EmployeeName)</td>
+                    <td>@Html.DisplayFor(Employee => item.EmployeeEmail)</td>
+                    <td>@Html.DisplayFor(Employee => item.Department.DepartmentName)</td>  
+                    <td>@Html.DisplayFor(Employee => item.HiringDate)</td>
+                    <td>@Html.DisplayFor(Employee => item.BasicSalary)</td>
+                    <td>
+
+                        <a 
+                                class="btn btn-outline-info" 
+                                asp-action="Edit"
+                                asp-route-id="@item.Id">
+                            Edit
+                        </a>
+
+                        <a 
+                            class="btn btn-outline-danger"
+                            asp-action="Delete"
+                           asp-route-id="@item.Id"
+                           asp-controller="Employee"
+                           onclick="return confirm('Delete @item.EmployeeName?')">
+
+                            Delete
+                        </a>
+                    </td>
+                </tr>
+            }
+    </tbody>
+</table>
+
+

@@ -1,0 +1,14 @@
+﻿@using HumanResourcesApp
+@using HumanResourcesApp.Models
+@using HumanResourcesApp.ViewModels
+@using Microsoft.AspNetCore.Identity
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!--Injecting Identity services-->
+@inject SignInManager<IdentityUser> _signInManager;
+@inject SignInManager<IdentityUser> _userManager;
+@inject SignInManager<IdentityRole> _roleManager;
+
+
+
