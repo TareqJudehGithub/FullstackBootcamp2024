@@ -1,0 +1,56 @@
+﻿@model Employee
+
+<h2>Add New Employee</h2>
+
+<form method="post" asp-action="Create" asp-controller="Employee">
+
+    <!--Enabling the Data Annotation-->
+    <div  class="text-danger" asp-validation-summary="ModelOnly" ></div>
+    
+    <div class="form-group mb-3">
+        <label asp-for="EmployeeName" class="form-label"></label>
+        <input type="text" class="form-control" asp-for="EmployeeName">
+        <span class="text-danger" asp-validation-for="EmployeeName" ></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="EmployeeEmail" class="form-label">Email</label>
+        <input type="email" class="form-control" asp-for="EmployeeEmail">
+        <span class="text-danger" asp-validation-for="EmployeeEmail"></span>
+    </div>
+
+    <div class="form-group mb-3">
+        <label asp-for="DepartmentId"
+               class="form-label">         
+        </label>
+
+        <select class="form-control"
+                asp-for="DepartmentId"
+                asp-items="@(new SelectList(ViewBag.DepartmentList, "Id", "DepartmentName"))">
+            <option value="">Select Department</option>
+        </select>
+        <span class="text-danger" asp-validation-for="DepartmentId"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="HiringDate" class="form-label">Hiring Date</label>
+        <input type="date"
+               class="form-control"
+               asp-for="HiringDate"
+               >
+        <span class="text-danger" asp-validation-for="HiringDate"></span>
+    </div>
+
+    <div class="mb-3">
+        <button class="btn btn-outline-primary" type="submit">Add</button>
+        <a class="btn btn-outline-danger" asp-action="Index">Cancel</a>
+    </div>
+
+</form>
+
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

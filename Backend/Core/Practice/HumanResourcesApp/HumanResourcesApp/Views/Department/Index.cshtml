@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Department>;
+
+<h1>Departments List</h1>
+
+<a 
+        class="btn btn-outline-info m-5" 
+        asp-action="Create" 
+       >
+    Add a new Department
+</a>
+
+<table class="table m-5">
+
+    <thead class="bg-light">
+        <tr>
+            <th scope="auto">ID</th>
+            <th scope="auto">Department</th>
+            <th scope="auto">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+            @foreach (var item in Model)
+            {
+        <tr>
+            <td scope="row">@Html.DisplayFor(dept => item.Id)</td>
+            <td scope="row">@Html.DisplayFor(dept => item.DepartmentName)</td>
+            <td scope="row">
+                    <a 
+                       class="btn btn-outline-info"
+                       asp-action="Edit"     
+                       asp-route-id="@item.Id">
+                       Edit
+                    </a>
+
+                    <a 
+                        class="btn btn-outline-danger"
+                       asp-action="Delete"
+                        asp-route-id="@item.Id"
+                       asp-controller="Department"
+                    onclick="return confirm('Delete @item.DepartmentName?')">
+                        Delete
+                    </a>
+            </td>          
+        </tr>
+            }
+    </tbody>
+</table>
+
+
+

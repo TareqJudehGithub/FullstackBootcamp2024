@@ -1,0 +1,81 @@
+﻿@model IEnumerable<Payroll>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Payroll</title>
+</head>
+<body>
+
+    <header>
+        <a 
+           class="btn btn-outline-info mb-3"
+           asp-action="Create" asp-controller="Payroll"
+           >
+        Add
+        </a>
+    </header>
+
+    <table class="table bg-light">
+        <thead>
+            <tr>
+                <th scope="col">@Html.DisplayNameFor(item => item.Id)</th>
+                <th scope="col">@Html.DisplayNameFor(item => item.Employee)</th>
+                <th scope="col">@Html.DisplayNameFor(item => item.PayrollDate)</th>
+                <th scope="col">@Html.DisplayNameFor(item => item.Bonus)</th>
+                <th scope="col">@Html.DisplayNameFor(item => item.SocialSecurityAmount)</th>
+                <th scope="col">@Html.DisplayNameFor(item => item.Leaves)</th>
+                <th scope="col">@Html.DisplayNameFor(item => item.NetSalary)</th>
+                <th scope="col">@Html.DisplayNameFor(item => item.TS)</th>
+                <th scope="col">@Html.DisplayNameFor(item => item.CreatedBy)</th>
+                <th scope="col">Action</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td scope="row">@Html.DisplayFor(payroll => item.Id)</td>
+                    <td scope="row">@Html.DisplayFor(payroll => item.Employee.EmployeeName)</td>
+                    <td scope="row">@Html.DisplayFor(payroll => item.PayrollDate)</td>
+                    <td scope="row">@Html.DisplayFor(payroll => item.Bonus)</td>
+                    <td scope="row">@Html.DisplayFor(payroll => item.SocialSecurityAmount)</td>
+                    <td scope="row">@Html.DisplayFor(payroll => item.Leaves)</td>
+                    <td scope="row">@Html.DisplayFor(payroll => item.NetSalary)</td>
+                    <td scope="row">@Html.DisplayFor(payroll => item.TS)</td>
+                    <td scope="row">@Html.DisplayFor(payroll => item.CreatedBy)</td>
+            
+                    <td scope="row"> 
+                        <a 
+                          class="btn btn-outline-info"
+                          asp-controller="Payroll"
+                          asp-action="Edit"
+                          asp-route-id="@item.Id"
+                        >                          
+                        Edit
+                        </a>
+                   
+                        <a
+                         class="btn btn-outline-danger"
+                         asp-action="Delete"
+                         asp-route-id="@item.Id"
+                         onclick="return confirm('Delete @item.Employee.EmployeeName payroll record?')"
+                        >
+                        Del
+                     </a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+
+
+    </table>
+</body>
+</html>
+
+
+
+
+
+

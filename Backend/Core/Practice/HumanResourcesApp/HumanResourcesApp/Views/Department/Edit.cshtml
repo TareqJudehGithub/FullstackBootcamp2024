@@ -1,0 +1,33 @@
+﻿<!-- Not used anymore - Create View now act as Create/Edit -->
+
+@*@model Department
+
+<h2>Edit @Html.DisplayFor(dept => Model.DepartmentName) Details</h2>
+
+<form asp-action="Edit" asp-controller="Department" method="post">
+    <div asp-validation-summary="ModelOnly"></div>       
+
+    <div class="m-3">
+        <label class="col-form-label" asp-for="DepartmentName">Department Name</label>
+        <input class="form-control" type="text" asp-for="DepartmentName" />
+        <span class="text-danger" asp-validation-for="DepartmentName"></span>
+    </div>
+
+    <div class="m-3">
+        <button class="btn btn-outline-info"
+                type="submit">
+            Save
+        </button>
+        <a class="btn btn-outline-danger"
+           asp-action="Index"
+           asp-controller="Department">
+            Cancel
+        </a>
+    </div>
+</form>*@
+
+@*@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}*@
