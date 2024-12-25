@@ -18,24 +18,7 @@ namespace HumanResourcesApp.Controllers
         // Show all Employees in the Employees table
         public IActionResult Index()
         {
-            // Relation between Employees and Departments
-            //var employees = (
-            //    from emp in _dbContext.Employees
-            //    join dep in _dbContext.Departments
-            //    on emp.DepartmentId equals dep.Id
-
-            //    select new Employee
-            //    {
-            //        Id = emp.Id,
-            //        EmployeeName = emp.EmployeeName,
-            //        EmployeeEmail = emp.EmployeeEmail,
-            //        HiringDate = emp.HiringDate,
-            //        DepartmentId = emp.DepartmentId,
-            //        Department = dep
-            //    }
-            //    ).ToList();
-
-            var employees = _dbContext.Employees.Include(emp => emp.Department);  // map Employees props with Department.
+            var employees = _dbContext.Employees.Include(emp => emp.Department);  // map/join Employees props with Department.
 
             return View(employees);
         }
@@ -90,6 +73,7 @@ namespace HumanResourcesApp.Controllers
             emp.EmployeeEmail = employee.EmployeeEmail;
             emp.Department = employee.Department;
             emp.HiringDate = employee.HiringDate;
+            emp.BasicSalary = employee.BasicSalary;
 
             _dbContext.SaveChanges();
 

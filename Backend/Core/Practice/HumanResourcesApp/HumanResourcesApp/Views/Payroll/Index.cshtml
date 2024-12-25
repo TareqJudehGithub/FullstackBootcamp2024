@@ -20,6 +20,7 @@
             <tr>
                 <th scope="col">@Html.DisplayNameFor(item => item.Id)</th>
                 <th scope="col">@Html.DisplayNameFor(item => item.Employee)</th>
+                <th scope="col">@Html.DisplayNameFor(item => item.Employee.BasicSalary)</th>
                 <th scope="col">@Html.DisplayNameFor(item => item.PayrollDate)</th>
                 <th scope="col">@Html.DisplayNameFor(item => item.Bonus)</th>
                 <th scope="col">@Html.DisplayNameFor(item => item.SocialSecurityAmount)</th>
@@ -37,6 +38,7 @@
                 <tr>
                     <td scope="row">@Html.DisplayFor(payroll => item.Id)</td>
                     <td scope="row">@Html.DisplayFor(payroll => item.Employee.EmployeeName)</td>
+                    <td scope="row">@Html.DisplayFor(payroll => item.Employee.BasicSalary)</td>
                     <td scope="row">@Html.DisplayFor(payroll => item.PayrollDate)</td>
                     <td scope="row">@Html.DisplayFor(payroll => item.Bonus)</td>
                     <td scope="row">@Html.DisplayFor(payroll => item.SocialSecurityAmount)</td>

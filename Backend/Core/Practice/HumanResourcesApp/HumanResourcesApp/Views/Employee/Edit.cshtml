@@ -3,7 +3,7 @@
 <h2>Edit Employee @Model.EmployeeName information</h2>
 
 <form method="post" asp-action="Edit">
-<div asp-validation-summary="ModelOnly"></div>
+    <div asp-validation-summary="ModelOnly"></div>
 
     <div class="mb-3">
         <label asp-for="EmployeeName" class="form-label"></label>
@@ -32,9 +32,17 @@
         <input class="form-control" type="date" asp-for="HiringDate">
     </div>
 
+    <div class="form-group">
+        <label asp-for="BasicSalary" class="form-label"></label>
+        <input type="number"
+               class="form-control"
+               asp-for="BasicSalary">
+        <span class="text-danger" asp-validation-for="BasicSalary"></span>
+    </div>
+
     <div class="mb-3">
         <button class="btn btn-outline-primary" type="submit">Save</button>
-        <a class="btn btn-outline-danger" asp-action="Index">Cancel</a>        
+        <a class="btn btn-outline-danger" asp-action="Index">Cancel</a>
     </div>
 
 </form>

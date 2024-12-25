@@ -1,4 +1,6 @@
-﻿using HumanResourcesApp.Data;
+﻿// Ignore Spelling: App
+
+using HumanResourcesApp.Data;
 using HumanResourcesApp.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;  // for using ViewBag

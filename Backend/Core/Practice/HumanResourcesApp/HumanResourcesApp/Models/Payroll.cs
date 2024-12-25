@@ -61,6 +61,11 @@ namespace HumanResourcesApp.Models
 
         [Display(Name = "Employee Name")]
         public Employee Employee { get; set; }
+
+        [Required]
+        [Column(TypeName = "DECIMAL(18,3)")]
+        [DataType(DataType.Currency)]
+        public decimal BasicSalary { get; set; }
         #endregion
     }
 }

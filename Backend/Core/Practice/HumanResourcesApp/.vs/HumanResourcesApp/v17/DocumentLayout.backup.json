@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\views\\payroll\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\views\\payroll\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\views\\payroll\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\views\\payroll\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,64 +19,8 @@
       "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\models\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\views\\payroll\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\views\\payroll\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\controllers\\payrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\controllers\\payrollcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|e:\\webdev\\myfullstack\\backend\\core\\practice\\humanresourcesapp\\humanresourcesapp\\migrations\\20241208225326_payrolltb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5F7973F-9C10-453F-BDE6-42E22AE62691}|HumanResourcesApp\\HumanResourcesApp.csproj|solutionrelative:humanresourcesapp\\migrations\\20241208225326_payrolltb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "HumanResourcesApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "HumanResourcesApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T18:43:21.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Payroll\\Index.cshtml",
+              "RelativeDocumentMoniker": "HumanResourcesApp\\Views\\Payroll\\Index.cshtml",
+              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Payroll\\Index.cshtml",
+              "RelativeToolTip": "HumanResourcesApp\\Views\\Payroll\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T18:24:25.811Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -89,228 +67,43 @@
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "PayrollController.cs",
-              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Controllers\\PayrollController.cs",
-              "RelativeDocumentMoniker": "HumanResourcesApp\\Controllers\\PayrollController.cs",
-              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Controllers\\PayrollController.cs",
-              "RelativeToolTip": "HumanResourcesApp\\Controllers\\PayrollController.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAzwFgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T17:34:29.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Payroll\\Index.cshtml",
-              "RelativeDocumentMoniker": "HumanResourcesApp\\Views\\Payroll\\Index.cshtml",
-              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Payroll\\Index.cshtml",
-              "RelativeToolTip": "HumanResourcesApp\\Views\\Payroll\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T17:42:59.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "HumanResourcesApp\\Controllers\\EmployeeController.cs",
-              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "HumanResourcesApp\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T12:01:03.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Payroll.cs",
               "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Models\\Payroll.cs",
               "RelativeDocumentMoniker": "HumanResourcesApp\\Models\\Payroll.cs",
               "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Models\\Payroll.cs",
               "RelativeToolTip": "HumanResourcesApp\\Models\\Payroll.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T18:01:23.298Z",
+              "WhenOpened": "2024-12-24T17:49:56.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "HumanResourcesApp\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "HumanResourcesApp\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-09T00:33:48.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Payroll\\Create.cshtml",
               "RelativeDocumentMoniker": "HumanResourcesApp\\Views\\Payroll\\Create.cshtml",
               "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Payroll\\Create.cshtml",
               "RelativeToolTip": "HumanResourcesApp\\Views\\Payroll\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-08T21:23:24.277Z",
+              "WhenOpened": "2024-12-24T17:48:18.334Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "HumanResourcesApp\\Controllers\\DepartmentController.cs",
-              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "HumanResourcesApp\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAgAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "PayrollController.cs",
+              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Controllers\\PayrollController.cs",
+              "RelativeDocumentMoniker": "HumanResourcesApp\\Controllers\\PayrollController.cs",
+              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Controllers\\PayrollController.cs",
+              "RelativeToolTip": "HumanResourcesApp\\Controllers\\PayrollController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T00:19:23.733Z",
+              "WhenOpened": "2024-12-08T17:34:29.932Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "HumanResourcesApp\\Data\\AppDbContext.cs",
-              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "HumanResourcesApp\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T14:19:57.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Department\\Edit.cshtml",
-              "RelativeDocumentMoniker": "HumanResourcesApp\\Views\\Department\\Edit.cshtml",
-              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Department\\Edit.cshtml",
-              "RelativeToolTip": "HumanResourcesApp\\Views\\Department\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T14:53:30.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Department\\Create.cshtml",
-              "RelativeDocumentMoniker": "HumanResourcesApp\\Views\\Department\\Create.cshtml",
-              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Department\\Create.cshtml",
-              "RelativeToolTip": "HumanResourcesApp\\Views\\Department\\Create.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T14:27:38.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Department.cs",
-              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "HumanResourcesApp\\Models\\Department.cs",
-              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Models\\Department.cs",
-              "RelativeToolTip": "HumanResourcesApp\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T23:33:54.455Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Department\\Index.cshtml",
-              "RelativeDocumentMoniker": "HumanResourcesApp\\Views\\Department\\Index.cshtml",
-              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Department\\Index.cshtml",
-              "RelativeToolTip": "HumanResourcesApp\\Views\\Department\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T14:55:03.125Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Employee\\Edit.cshtml",
-              "RelativeDocumentMoniker": "HumanResourcesApp\\Views\\Employee\\Edit.cshtml",
-              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Employee\\Edit.cshtml",
-              "RelativeToolTip": "HumanResourcesApp\\Views\\Employee\\Edit.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T12:16:35.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "HumanResourcesApp\\Views\\_ViewStart.cshtml",
-              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "HumanResourcesApp\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T13:42:05.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "HumanResourcesApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "HumanResourcesApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-22T13:39:17.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\appsettings.json",
-              "RelativeDocumentMoniker": "HumanResourcesApp\\appsettings.json",
-              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\appsettings.json",
-              "RelativeToolTip": "HumanResourcesApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-22T11:53:18.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "20241208225326_PayrollTb.cs",
-              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Migrations\\20241208225326_PayrollTb.cs",
-              "RelativeDocumentMoniker": "HumanResourcesApp\\Migrations\\20241208225326_PayrollTb.cs",
-              "ToolTip": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\Migrations\\20241208225326_PayrollTb.cs",
-              "RelativeToolTip": "HumanResourcesApp\\Migrations\\20241208225326_PayrollTb.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T22:53:26.862Z"
             }
           ]
         }

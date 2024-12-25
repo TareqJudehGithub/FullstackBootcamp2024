@@ -18,7 +18,9 @@ namespace HumanResourcesApp.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            var departments = _dbContext.Departments.ToList();
+            var departments = _dbContext.Departments
+                .OrderBy(dep => dep.DepartmentName)      // Sort alphabetically A-Z
+                .ToList();
             return View(departments);
         }
 
