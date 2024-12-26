@@ -40,7 +40,10 @@ namespace HumanResourcesApp.Models
         [Required]
         [Column(TypeName = "DECIMAL(18,3)")]
         [DataType(DataType.Currency)]
+        [Range(minimum: 1,
+            maximum: double.MaxValue,
+            ErrorMessage = "Basic Salary should be higher than zero.")
+        ]
         public decimal BasicSalary { get; set; }
-
     }
 }

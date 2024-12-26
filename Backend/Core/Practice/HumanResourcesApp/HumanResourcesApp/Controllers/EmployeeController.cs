@@ -57,7 +57,6 @@ namespace HumanResourcesApp.Controllers
         public IActionResult Edit(int id)
         {
             ViewBag.DepartmentList = _dbContext.Departments.ToList();
-
             var model = _dbContext.Employees.Where(emp => emp.Id == id).FirstOrDefault();
 
             return View(model);
@@ -71,7 +70,7 @@ namespace HumanResourcesApp.Controllers
             emp.EmployeeName = employee.EmployeeName;
             emp.DepartmentId = employee.DepartmentId;
             emp.EmployeeEmail = employee.EmployeeEmail;
-            emp.Department = employee.Department;
+            emp.BasicSalary = employee.BasicSalary;
             emp.HiringDate = employee.HiringDate;
             emp.BasicSalary = employee.BasicSalary;
 

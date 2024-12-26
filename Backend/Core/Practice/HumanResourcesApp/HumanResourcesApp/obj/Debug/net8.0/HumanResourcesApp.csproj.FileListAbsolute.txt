@@ -548,8 +548,8 @@ E:\WebDev\MyFullstack\Backend\Core\Lab\HumanResourcesApp\HumanResourcesApp\obj\D
 E:\WebDev\MyFullstack\Backend\Core\Lab\HumanResourcesApp\HumanResourcesApp\obj\Debug\net8.0\ref\HumanResourcesApp.dll
 E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\bin\Debug\net8.0\appsettings.Development.json
 E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\bin\Debug\net8.0\appsettings.json
-E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\bin\Debug\net8.0\HumanResourcesApp.staticwebassets.endpoints.json
 E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\bin\Debug\net8.0\HumanResourcesApp.staticwebassets.runtime.json
+E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\bin\Debug\net8.0\HumanResourcesApp.staticwebassets.endpoints.json
 E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\bin\Debug\net8.0\HumanResourcesApp.exe
 E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\bin\Debug\net8.0\HumanResourcesApp.deps.json
 E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\bin\Debug\net8.0\HumanResourcesApp.runtimeconfig.json
@@ -687,10 +687,10 @@ E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\
 E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HumanResourcesApp.props
 E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HumanResourcesApp.props
 E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\obj\Debug\net8.0\staticwebassets.pack.json
-E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\obj\Debug\net8.0\HumanRes.51FE02D6.Up2Date
 E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\obj\Debug\net8.0\HumanResourcesApp.dll
 E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\obj\Debug\net8.0\refint\HumanResourcesApp.dll
 E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\obj\Debug\net8.0\HumanResourcesApp.pdb
 E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\obj\Debug\net8.0\HumanResourcesApp.genruntimeconfig.cache
 E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\obj\Debug\net8.0\ref\HumanResourcesApp.dll
+E:\WebDev\MyFullstack\Backend\Core\Practice\HumanResourcesApp\HumanResourcesApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

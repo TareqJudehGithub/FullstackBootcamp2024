@@ -51,6 +51,7 @@ namespace HumanResourcesApp.Controllers
         [HttpPost]
         public IActionResult Create(Payroll payroll)
         {
+            //   payroll.BasicSalary = GetBasicSalary(payroll.EmployeeID);
             payroll.CreatedBy = "Admin";
             payroll.TS = DateTime.Now;
 
@@ -101,6 +102,19 @@ namespace HumanResourcesApp.Controllers
                 _dbContext.SaveChanges();
             }
             return RedirectToAction(nameof(Index));
+        }
+
+        [HttpGet]
+        public ActionResult<decimal> GetBasicSalary(int employeeId)
+        {
+
+
+            var basicSalary = _dbContext.Employees.FirstOrDefault(emp => emp.Id == employeeId).BasicSalary;
+
+            return basicSalary;
+
+
+
         }
     }
 }
