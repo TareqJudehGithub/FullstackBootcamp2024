@@ -29,6 +29,13 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+
+// This is the Areas service (code copied from ScaffoldingReadMe.txt file)
+app.MapControllerRoute(
+      name: "areas",
+      pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+    );
+
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");

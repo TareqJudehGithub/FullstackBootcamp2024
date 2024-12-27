@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W+oDhbzYtN8yoq89VoaVPRIP44zP9hmBITfiEmNd/5U=",
+  "Hash": "NPpIeA/HUYBWRUdyz1gIL0zZ1whxuVyL84ia2Qf2Q9U=",
   "Source": "HumanResourcesApp",
   "BasePath": "_content/HumanResourcesApp",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "gtbnzk2csk",
-      "Integrity": "bHGEuP7woqO0NwC1ZGwNz9tg5R6+dEDKNib0TZuC288=",
+      "Fingerprint": "hr7n5b4slh",
+      "Integrity": "Dfip6X7z2hEo6sctDf/f+6wYUry58le1mVm97C4xuas=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HumanResourcesApp.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "gtbnzk2csk",
-      "Integrity": "bHGEuP7woqO0NwC1ZGwNz9tg5R6+dEDKNib0TZuC288=",
+      "Fingerprint": "hr7n5b4slh",
+      "Integrity": "Dfip6X7z2hEo6sctDf/f+6wYUry58le1mVm97C4xuas=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HumanResourcesApp.bundle.scp.css"
@@ -1495,7 +1495,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "2287"
         },
         {
           "Name": "Content-Type",
@@ -1503,11 +1503,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bHGEuP7woqO0NwC1ZGwNz9tg5R6+dEDKNib0TZuC288=\""
+          "Value": "\"Dfip6X7z2hEo6sctDf/f+6wYUry58le1mVm97C4xuas=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Dec 2024 18:19:41 GMT"
+          "Value": "Fri, 27 Dec 2024 13:33:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1517,12 +1517,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bHGEuP7woqO0NwC1ZGwNz9tg5R6+dEDKNib0TZuC288="
+          "Value": "sha256-Dfip6X7z2hEo6sctDf/f+6wYUry58le1mVm97C4xuas="
         }
       ]
     },
     {
-      "Route": "HumanResourcesApp.gtbnzk2csk.bundle.scp.css",
+      "Route": "HumanResourcesApp.hr7n5b4slh.bundle.scp.css",
       "AssetFile": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\HumanResourcesApp.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1532,7 +1532,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "2287"
         },
         {
           "Name": "Content-Type",
@@ -1540,11 +1540,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bHGEuP7woqO0NwC1ZGwNz9tg5R6+dEDKNib0TZuC288=\""
+          "Value": "\"Dfip6X7z2hEo6sctDf/f+6wYUry58le1mVm97C4xuas=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Dec 2024 18:19:41 GMT"
+          "Value": "Fri, 27 Dec 2024 13:33:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1554,7 +1554,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gtbnzk2csk"
+          "Value": "hr7n5b4slh"
         },
         {
           "Name": "label",
@@ -1562,12 +1562,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bHGEuP7woqO0NwC1ZGwNz9tg5R6+dEDKNib0TZuC288="
+          "Value": "sha256-Dfip6X7z2hEo6sctDf/f+6wYUry58le1mVm97C4xuas="
         }
       ]
     },
     {
-      "Route": "HumanResourcesApp.gtbnzk2csk.styles.css",
+      "Route": "HumanResourcesApp.hr7n5b4slh.styles.css",
       "AssetFile": "E:\\WebDev\\MyFullstack\\Backend\\Core\\Practice\\HumanResourcesApp\\HumanResourcesApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\HumanResourcesApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1577,7 +1577,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "2287"
         },
         {
           "Name": "Content-Type",
@@ -1585,11 +1585,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bHGEuP7woqO0NwC1ZGwNz9tg5R6+dEDKNib0TZuC288=\""
+          "Value": "\"Dfip6X7z2hEo6sctDf/f+6wYUry58le1mVm97C4xuas=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Dec 2024 18:19:41 GMT"
+          "Value": "Fri, 27 Dec 2024 13:33:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1599,7 +1599,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gtbnzk2csk"
+          "Value": "hr7n5b4slh"
         },
         {
           "Name": "label",
@@ -1607,7 +1607,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bHGEuP7woqO0NwC1ZGwNz9tg5R6+dEDKNib0TZuC288="
+          "Value": "sha256-Dfip6X7z2hEo6sctDf/f+6wYUry58le1mVm97C4xuas="
         }
       ]
     },
@@ -1622,7 +1622,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "2287"
         },
         {
           "Name": "Content-Type",
@@ -1630,11 +1630,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bHGEuP7woqO0NwC1ZGwNz9tg5R6+dEDKNib0TZuC288=\""
+          "Value": "\"Dfip6X7z2hEo6sctDf/f+6wYUry58le1mVm97C4xuas=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Dec 2024 18:19:41 GMT"
+          "Value": "Fri, 27 Dec 2024 13:33:47 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1644,7 +1644,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bHGEuP7woqO0NwC1ZGwNz9tg5R6+dEDKNib0TZuC288="
+          "Value": "sha256-Dfip6X7z2hEo6sctDf/f+6wYUry58le1mVm97C4xuas="
         }
       ]
     },

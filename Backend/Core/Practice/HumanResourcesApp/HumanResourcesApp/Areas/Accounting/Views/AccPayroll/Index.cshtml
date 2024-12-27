@@ -1,0 +1,45 @@
+﻿@model IEnumerable<AccPayroll>
+
+<h2>Accounting Payroll</h2>
+
+
+<a class="btn btn-outline-info" asp-action="Create">Create</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">@Html.DisplayNameFor(model => model.Id)</th>
+            <th scope="col">@Html.DisplayNameFor(model => model.PayrollAmount)</th>
+            <th scope="col">@Html.DisplayNameFor(model => model.TS)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td scope="row">@Html.DisplayFor(model => item.Id)</td>
+                <td scope="row">$@Html.DisplayFor(model => item.PayrollAmount)</td>
+                <td scope="row">@Html.DisplayFor(model => item.TS)</td>
+                <td>
+                    <a class="btn btn-outline-info"
+                       asp-action="Edit"
+                       asp-route-id="@item.Id">
+                        Edit
+                    </a>
+
+                    <a class="btn btn-outline-danger"
+                       asp-action="Delete"
+                       asp-route-id="@item.Id"
+                       asp-controller="AccPayroll"
+                       onclick="return confirm('Delete @item.PayrollAmount?')">                       
+                        Del
+                    </a>
+
+               
+
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+

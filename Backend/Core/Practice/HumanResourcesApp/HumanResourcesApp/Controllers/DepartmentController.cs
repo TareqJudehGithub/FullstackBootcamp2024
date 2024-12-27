@@ -47,6 +47,7 @@ namespace HumanResourcesApp.Controllers
 
             return View("Create", model);  // View(ViewName, Object)
         }
+        [HttpPost]
         public IActionResult Edit(int id, Department department)
         {
             var model = _dbContext.Departments.Where(dept => dept.Id == id).FirstOrDefault();

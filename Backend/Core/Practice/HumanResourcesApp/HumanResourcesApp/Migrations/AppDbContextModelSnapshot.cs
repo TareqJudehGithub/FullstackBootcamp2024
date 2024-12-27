@@ -22,6 +22,25 @@ namespace HumanResourcesApp.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("HumanResourcesApp.Areas.Accounting.Models.AccPayroll", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INT");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<decimal>("PayrollAmount")
+                        .HasColumnType("DECIMAL(18,3)");
+
+                    b.Property<DateTime?>("TS")
+                        .HasColumnType("DATETIME");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("AccPayroll", "dbo");
+                });
+
             modelBuilder.Entity("HumanResourcesApp.Models.Department", b =>
                 {
                     b.Property<int>("Id")

@@ -3,7 +3,7 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
-      "Route": "HumanResourcesApp.gtbnzk2csk.styles.css",
+      "Route": "HumanResourcesApp.hr7n5b4slh.styles.css",
       "AssetFile": "HumanResourcesApp.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -17,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "2287"
         },
         {
           "Name": "Content-Type",
@@ -25,21 +25,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bHGEuP7woqO0NwC1ZGwNz9tg5R6+dEDKNib0TZuC288=\""
+          "Value": "\"Dfip6X7z2hEo6sctDf/f+6wYUry58le1mVm97C4xuas=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Dec 2024 18:19:41 GMT"
+          "Value": "Fri, 27 Dec 2024 13:33:47 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gtbnzk2csk"
+          "Value": "hr7n5b4slh"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-bHGEuP7woqO0NwC1ZGwNz9tg5R6+dEDKNib0TZuC288="
+          "Value": "sha256-Dfip6X7z2hEo6sctDf/f+6wYUry58le1mVm97C4xuas="
         },
         {
           "Name": "label",
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1135"
+          "Value": "2287"
         },
         {
           "Name": "Content-Type",
@@ -70,17 +70,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"bHGEuP7woqO0NwC1ZGwNz9tg5R6+dEDKNib0TZuC288=\""
+          "Value": "\"Dfip6X7z2hEo6sctDf/f+6wYUry58le1mVm97C4xuas=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 26 Dec 2024 18:19:41 GMT"
+          "Value": "Fri, 27 Dec 2024 13:33:47 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-bHGEuP7woqO0NwC1ZGwNz9tg5R6+dEDKNib0TZuC288="
+          "Value": "sha256-Dfip6X7z2hEo6sctDf/f+6wYUry58le1mVm97C4xuas="
         }
       ]
     },

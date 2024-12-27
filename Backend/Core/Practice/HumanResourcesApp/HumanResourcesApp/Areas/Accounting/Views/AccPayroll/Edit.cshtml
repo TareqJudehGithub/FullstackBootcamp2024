@@ -1,0 +1,18 @@
+﻿@model AccPayroll
+
+<h2>Edit Account Payroll</h2>
+
+<form asp-action="Edit" method="post">
+    <partial name="_Form" model="Model" />
+
+    <div class="mb-3">
+        <button class="btn btn-outline-info" type="submit">Edit</button>
+        <a class="btn btn-outline-danger" asp-action="Index">Cancel</a>
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

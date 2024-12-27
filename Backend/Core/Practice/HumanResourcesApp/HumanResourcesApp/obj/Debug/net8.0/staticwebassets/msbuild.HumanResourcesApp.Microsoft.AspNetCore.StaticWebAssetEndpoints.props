@@ -25,16 +25,16 @@
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 22 Nov 2024 17:16:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HumanResourcesApp/HumanResourcesApp.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HumanResourcesApp.gtbnzk2csk.bundle.scp.css'))</AssetFile>
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HumanResourcesApp.hr7n5b4slh.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bHGEuP7woqO0NwC1ZGwNz9tg5R6\u002BdEDKNib0TZuC288="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1135"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bHGEuP7woqO0NwC1ZGwNz9tg5R6\u002BdEDKNib0TZuC288=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 18:19:41 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Dfip6X7z2hEo6sctDf/f\u002B6wYUry58le1mVm97C4xuas="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2287"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Dfip6X7z2hEo6sctDf/f\u002B6wYUry58le1mVm97C4xuas=\u0022"},{"Name":"Last-Modified","Value":"Fri, 27 Dec 2024 13:33:47 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/HumanResourcesApp/HumanResourcesApp.gtbnzk2csk.bundle.scp.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HumanResourcesApp.gtbnzk2csk.bundle.scp.css'))</AssetFile>
+    <StaticWebAssetEndpoint Include="_content/HumanResourcesApp/HumanResourcesApp.hr7n5b4slh.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\HumanResourcesApp.hr7n5b4slh.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gtbnzk2csk"},{"Name":"integrity","Value":"sha256-bHGEuP7woqO0NwC1ZGwNz9tg5R6\u002BdEDKNib0TZuC288="},{"Name":"label","Value":"_content/HumanResourcesApp/HumanResourcesApp.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1135"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bHGEuP7woqO0NwC1ZGwNz9tg5R6\u002BdEDKNib0TZuC288=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Dec 2024 18:19:41 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hr7n5b4slh"},{"Name":"integrity","Value":"sha256-Dfip6X7z2hEo6sctDf/f\u002B6wYUry58le1mVm97C4xuas="},{"Name":"label","Value":"_content/HumanResourcesApp/HumanResourcesApp.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2287"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Dfip6X7z2hEo6sctDf/f\u002B6wYUry58le1mVm97C4xuas=\u0022"},{"Name":"Last-Modified","Value":"Fri, 27 Dec 2024 13:33:47 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/HumanResourcesApp/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
