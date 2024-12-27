@@ -2,12 +2,14 @@
 
 using HumanResourcesApp.Areas.Accounting.Models;
 using HumanResourcesApp.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;   // for DbContext Class
+
 
 
 namespace HumanResourcesApp.Data
 {
-    public class AppDbContext : DbContext
+    public class AppDbContext : IdentityDbContext
     {
 
         #region Constructors
