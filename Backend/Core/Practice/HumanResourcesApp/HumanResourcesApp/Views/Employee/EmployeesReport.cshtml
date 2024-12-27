@@ -1,0 +1,28 @@
+﻿@model EmployeeReportsViewModels
+
+<h2>Employee Reports</h2>
+
+<table class="table">
+
+    <thead>
+        <tr>
+            <th scope="col">@Html.DisplayNameFor(model => model.EmployeeCount)</th>
+            <th scope="col">@Html.DisplayNameFor(model => model.TotalSSA)</th>
+            <th scope="col">@Html.DisplayNameFor(model => model.TotalBasicSalaries)</th>
+            <th scope="col">@Html.DisplayNameFor(model => model.TotalBonuses)</th>
+            <th scope="col">@Html.DisplayNameFor(model => model.TotalNetSalary)</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td scope="row">@Html.DisplayFor(model => model.EmployeeCount)</td>
+            <td scope="row">$@Html.DisplayFor(model => model.TotalSSA)</td>
+            <td scope="row">$@Html.DisplayFor(model => model.TotalBasicSalaries)</td>
+            <td scope="row">$@Html.DisplayFor(model => model.TotalBonuses)</td>
+            <td scope="row">$@Html.DisplayFor(model => model.TotalNetSalary)</td>
+        </tr>
+    </tbody>
+
+</table>
+

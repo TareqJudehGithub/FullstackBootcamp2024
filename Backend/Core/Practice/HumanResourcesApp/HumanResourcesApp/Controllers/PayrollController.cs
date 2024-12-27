@@ -30,10 +30,6 @@ namespace HumanResourcesApp.Controllers
                 .Include(pay => pay.Employee);
 
             return View(payroll);
-
-            //var payroll = _dbContext.Payrolls.Include(pay => pay.Employee);
-            //return View(payroll);
-
         }
 
         [HttpGet]
@@ -51,14 +47,39 @@ namespace HumanResourcesApp.Controllers
         [HttpPost]
         public IActionResult Create(Payroll payroll)
         {
-            //   payroll.BasicSalary = GetBasicSalary(payroll.EmployeeID);
+
+            payroll.NetSalary = CalcNetSalary(payroll: payroll);
             payroll.CreatedBy = "Admin";
             payroll.TS = DateTime.Now;
 
             _dbContext.Payrolls.Add(payroll);
             _dbContext.SaveChanges();
 
-            return RedirectToAction("Index");
+            return RedirectToAction(nameof(Index));
+        }
+
+        // Calculate NetSalary method
+        public decimal CalcNetSalary(Payroll payroll)
+        {
+            var employee = _dbContext.Employees
+                .FirstOrDefault(emp => emp.Id == payroll.EmployeeID);
+
+            decimal netSalary = 0;
+
+            if (employee != null)
+            {
+                decimal basicSalary = employee.BasicSalary; // Get Basic salary from DB
+                payroll.BasicSalary = basicSalary;                // and put it in the Payroll field
+
+                decimal bonus = payroll.Bonus;
+                decimal ssa = payroll.SocialSecurityAmount;
+                decimal leavesAmount = (basicSalary / 30 / 8) *
+                    Convert.ToDecimal(payroll.Leaves);
+
+                netSalary = basicSalary + bonus - ssa - leavesAmount;
+            }
+
+            return netSalary;
         }
 
         [HttpGet]
@@ -107,14 +128,10 @@ namespace HumanResourcesApp.Controllers
         [HttpGet]
         public ActionResult<decimal> GetBasicSalary(int employeeId)
         {
-
-
             var basicSalary = _dbContext.Employees.FirstOrDefault(emp => emp.Id == employeeId).BasicSalary;
 
             return basicSalary;
-
-
-
         }
+
     }
 }
