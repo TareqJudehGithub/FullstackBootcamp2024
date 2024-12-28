@@ -29,6 +29,8 @@ namespace HumanResourcesApp.Controllers
         #endregion
 
         #region Action Methods
+
+        #region Register
         [HttpGet]
         public IActionResult Register()
         {
@@ -74,6 +76,47 @@ namespace HumanResourcesApp.Controllers
             }
             return View();
         }
+        #endregion
+
+        #region Login
+        [HttpGet]
+        public async Task<IActionResult> Login()
+        {
+            return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> Login(LoginViewModel login)
+        {
+            if (ModelState.IsValid)
+            {
+                var identityResult = await _signInManager // Map user credentials to IdentityUser
+                    .PasswordSignInAsync(
+                        userName: login.UserName,
+                        password: login.Password,
+                        isPersistent: false,
+                        lockoutOnFailure: false);
+
+                if (identityResult.Succeeded)
+                {
+                    return RedirectToAction("Index", "Home");
+                }
+                else
+                {
+                    ModelState.AddModelError("", "Invalid username or password");
+                }
+            }
+            return View();
+        }
+        #endregion
+
+        #region Logout
+        public async Task<IActionResult> Logout()
+        {
+            await _signInManager.SignOutAsync();
+
+            return RedirectToAction("Login");
+        }
+        #endregion
     }
     #endregion
 }
