@@ -63,26 +63,31 @@
                         </il>
                     </ul>
 
-                    <ul class="navbar-nav flex-grow-1">
-                        <il class="nav-item d-flex">
-                            @if (_signInManager.IsSignedIn(User))
-                            {
+                    @if (_signInManager.IsSignedIn(User))
+                    {
+                        <ul class="navbar-nav flex-grow-1">
+                            <il class="nav-item">
+                            Welcome @User.Identity?.Name
                                 <a class="nav-link text-dark"
                                    asp-controller="Account"
                                    asp-action="Logout">
-                                    Welcome @User.Identity?.Name | Logout
+                                    Logout
                                 </a>
-                            }
-                            else
-                            {
+                            </il>
+                        </ul>
+                    }
+                    else
+                    {
+                        <ul class="navbar-nav flex-grow-1">
+                            <il class="nav-item">
                                 <a class="nav-link text-dark"
                                    asp-controller="Account"
                                    asp-action="Login">
-                                   Log In
+                                    Log In
                                 </a>
-                            }
-                        </il>
+                            </il>
                         </ul>
+                    }
                 </div>
             </div>
         </nav>

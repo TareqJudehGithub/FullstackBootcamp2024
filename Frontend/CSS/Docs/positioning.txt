@@ -1,0 +1,15 @@
+Positioning in CSS
+ 
+ - position: relative;
+  - Moves the element away using values like top, bottom, left, and right.
+      position: relative;
+      top: 25px;
+      left: 25px;  
+       - Move that element from the left and from the top.
+  
+  - position: absolute;
+   - Moves an element based on it's parent element.
+
+   - position: fixed;
+    - Sticks an element to a fixed position on the web page.
+

@@ -1,0 +1,29 @@
+﻿@model LoginViewModel
+
+<h3>Log In</h3>
+
+<form asp-action="Login" method="post">
+    <div class="text-danger" asp-validation-summary="All"></div>
+
+    <div class="mb-3">
+        <label class="form-label" asp-for="UserName"></label>
+        <input class="form-control" asp-for="UserName" autofocus />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label" asp-for="Password"></label>
+        <input class="form-control" asp-for="Password" />
+    </div>
+
+    <div class="mb-3">
+        <input class="btn btn-outline-info" type="submit" value="Login" />
+        <a class="btn btn-outline-dark" asp-action="Register">Sign Up</a>
+    </div>
+
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

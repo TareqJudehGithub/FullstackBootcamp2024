@@ -28,7 +28,7 @@ namespace HumanResourcesApp.Controllers
         [HttpGet]
         public IActionResult Create()
         {
-            // Department dropdown menu
+            // Department drop-down menu
             ViewBag.DepartmentList = _dbContext.Departments.ToList();
             return View();
         }

@@ -52,10 +52,18 @@
                             {
                                 <p>
                                     Welcome @User.Identity?.Name |
-                                    <a asp-action="Logout" asp-controller="Account">
+                                    <a
+                                       asp-action="Logout" 
+                                       asp-controller="Account">
                                         SignOut
                                     </a>
+                                    <a 
+                                       asp-action="Manage"
+                                       asp-controller="Account">
+                                        Manage
+                                    </a>
                                 </p>
+
                             }
                             else
                             {
@@ -66,8 +74,8 @@
                                 </p>
                             }
                         }
-                    </div>
-                     
+                    </div>    
+                    
                 </div>
             </div>
         </nav>

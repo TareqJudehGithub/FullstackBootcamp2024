@@ -1,0 +1,106 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>User Registration</title>
+    <link rel="stylesheet" href="/css/style.css"/>
+</head>
+<body>
+    <header>
+        <ul>
+            <li><a href="demo1.html">Main</a></li>
+            <li><a href="demo2.html">Tables</a></li>
+            <li><a href="Forms.html">Forms</a></li>
+            <li><a href="user-register.html">User Registration</a></li>
+        </ul>
+    </header>
+    <main>
+        <form action="user-register.html" method="get">
+            <fieldset>
+                <table>
+                    <thead>
+                        <tr class="row">
+                            <th>User Registration</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><label for="usrname">Username</label></td>
+                            <td><input id="usrname" type="text" placeholder="Enter a username" required autofocus /></td>
+                            <td><label for="email">Email</label></td>
+                            <td><input id="email" type="email" placeholder="example@email.com" required /></td>
+                        </tr>
+                        <tr>
+                            <td><label for="password">Password</label></td>
+                            <td><input id="password" type="password" placeholder="Enter a password" required /></td>
+                            <td><label for="telphone">Telephone</label></td>
+                            <td><input id="telephone" type="number" placeholder="+962 79 123456" required /></td>
+                        </tr>
+                        <tr>
+                            <td><label for="age">Age</label></td>
+                            <td><input id="age" type="number" placeholder="25" required />
+                        <tr>
+                            <td><label for="gender">Gender</label></td>
+                            <td>
+                                <input id="gender" type="radio" name="gender" value="Male" />
+                                <input id="gender" type="radio" name="gender" value="Female" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td><label for="bio">Bio</label></td>
+                            <td><textarea id="bio" cols="25" rows="5"></textarea></td>
+                        </tr>
+                        <tr>
+                            <td><label for="city">City</label></td>
+                            <td>
+                                <select id="city" required>
+                                    <optgroup label="Jordan">
+                                        <option value="0" disabled selected>Select city</option>
+                                        <option value="amm">Amman</option>
+                                        <option value="irb">Irbid</option>
+                                        <option value="zar">Zarqa</option>
+                                        <option value="aqa">Aqaba</option>
+                                    </optgroup>
+
+                                    <optgroup label="Syria">
+                                        <option value="dam">Damascus</option>
+                                        <option value="ale">Aleppo</option>
+                                        <option value="hem">Hemess</option>
+                                        <option value="ham">Hama'a</option>
+                                    </optgroup>
+                                    <optgroup label="Lebanon">
+                                        <option value="bei">Beirut</option>
+                                        <option value="baa">Baalbak</option>
+                                        <option value="tri">Tripoli</option>
+                                        <option value="zah">Zahle</option>
+                                    </optgroup>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <label for="course">Interested in</label>
+                                <input type="checkbox" name="frontend" value="Frontend" />
+                                <input type="checkbox" name="backend" value="Backend" />
+                                <input type="checkbox" name="database" value="Database" />
+                                <input type="checkbox" name="cloud" value="Cloud Computing" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <button type="submit">Submit</button>
+                                <button type="reset">Clear</button>
+                            </td>
+                        </tr>
+                    </tbody>
+
+                </table>
+            </fieldset>
+        </form>
+    </main>
+
+    <footer></footer>
+
+</body>
+</html>
+

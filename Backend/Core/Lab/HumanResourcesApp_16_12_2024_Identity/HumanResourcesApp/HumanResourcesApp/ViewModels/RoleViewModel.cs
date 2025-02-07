@@ -6,7 +6,7 @@
         //[Required]
         //[Display(Name = "Id")]
         //[Column(TypeName = "INT")]
-        public string RoleId { get; set; }
+        public string? RoleId { get; set; }
 
         //[Required]
         //[Display(Name = "Role Name")]

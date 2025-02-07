@@ -7,6 +7,7 @@
 <h1>Role</h1>
 
 <partial name="_RoleForm" model=" new RoleViewModel()" />
+<div class="text-danger" asp-validation-summary="All" ></div>
 <table class="table m-5">
 
     <thead class="bg-light">
@@ -18,7 +19,14 @@
         @foreach (var item in Model)
         {
             <tr>
-                <td scope="row">@Html.DisplayFor(dept => item.RoleName)</td>             
+                <td scope="row">@Html.DisplayFor(dept => item.RoleName)</td>          
+                <td 
+                    class="btn btn-outline-info"
+                    asp-action="Edit"
+                    asp-route-id ="@item.RoleId"
+                    >
+                    Edit
+                </td>
             </tr>
         }
     </tbody>

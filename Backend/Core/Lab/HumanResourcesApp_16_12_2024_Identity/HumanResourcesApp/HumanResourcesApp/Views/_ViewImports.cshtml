@@ -7,8 +7,6 @@
 
 <!--Injecting Identity services-->
 @inject SignInManager<IdentityUser> _signInManager;
-@inject SignInManager<IdentityUser> _userManager;
-@inject SignInManager<IdentityRole> _roleManager;
-
-
+@inject UserManager<IdentityUser> _userManager;
+@inject RoleManager<IdentityRole> _roleManager;
 

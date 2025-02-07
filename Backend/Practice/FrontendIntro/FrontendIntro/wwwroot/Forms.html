@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Forms</title>
+    <link href="css/style.css" rel="stylesheet" />
+</head>
+<body>
+
+    <header>
+        <ul>
+            <li><a href="demo1.html">Main</a></li>
+            <li><a href="demo2.html">Tables</a></li>
+            <li><a href="Forms.html">Forms</a></li>
+            <li><a href="user-register.html">User Registration</a></li>
+        </ul>
+    </header>
+
+    <main>
+        <h1>Forms</h1>
+
+        <label>Username</label>
+        <input type="text" required placeholder="Enter username" />
+        <br />
+        <br />
+        <label>Password</label>
+        <input type="password" placeholder="Enter password" required />
+        <br />
+        <br />
+        <label>Date</label>
+        <input type="date" />
+        <br />
+        <br />
+        <label for="male">Male</label>
+        <input type="radio" id="male" name="name" value="" />
+        <label for="female">Female</label>
+        <input type="radio" id="female" name="name" value="" />
+        <br />
+
+        <label>Interests:</label>
+        <br />
+        <input type="checkbox" name="name" value="" />
+        <label>Frontend</label>
+        <input type="checkbox" name="name" value="" />
+        <label>Backend</label>
+        <input type="checkbox" name="name" value="" />
+        <label>Database</label>
+        <input type="checkbox" name="name" value="" />
+        <label>Cloud Computing</label>
+        <br />
+        <br />
+        <br />
+        <h3>User Registration  form</h3>
+        <form action="demo1.html" method="get">
+            <fieldset>
+                <legend>Registration</legend>
+                <label>Username</label>
+                <input type="text" name="name" value="" required />
+                <label>Email</label>
+                <input type="email" name="name" value="" required />
+                <br />
+                <label>Password</label>
+                <input type="password" name="name" value="" required />
+                <br />
+                <br />
+                <hr />
+                <label>Bio:</label>
+                <textarea cols="20" rows="5"></textarea>
+                <br />
+                <label>Date of Birth</label>
+                <input type="date" name="name" value="" />
+                <br />
+                <br />
+                <hr />
+
+                <label>Male</label>
+                <input type="radio" name="name" value="" />
+                <label>Female</label>
+                <input type="radio" name="name" value="" />
+                <br />
+                <br />
+                <hr />
+                <label>City</label>
+                <select>
+                    <option value="0" selected disabled>Select city</option>
+                    <option value="Amman">Amman</option>
+                    <option value="Irbid">Irbid</option>
+                    <option value="Zarqa">Zarqa</option>
+                    <option value="Aqaba">Aqaba</option>
+                </select>
+                <br />
+                <br />
+                <hr />
+
+                <button type="submit">Submit</button>
+                <button type="reset">Reset</button>
+            </fieldset>
+        </form>
+
+    </main>
+    <footer></footer>
+</body>
+</html>

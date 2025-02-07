@@ -1,0 +1,34 @@
+HTML
+ 
+ What is HTML?
+  - Hyper Text Markup Language.
+  - HTML is a markup language that web developers use to structure and to 
+    describe the content of a webpage.
+  - HTML consists of elements that describe different typ of content.
+      Examples:  paragraphs, links, headings, images, etc.
+      
+  - HTML elements:
+    <opening tag>content</closing tag>
+
+  Attributes
+  - A pieces of data that describes elements.
+
+  tags
+
+  <hr> Horizontal rule tag
+
+
+  Mano spacing
+  for "actual" spacing in text we use the <pre> tag
+  <pre>  Hello  World!  </pre>
+   - pre is a block element
+   - pre is a whitespace-sensitive
+
+HTML entities
+ HTML entities starts with & and ends with ; 
+ this is a paragraph tag &lt;p&gt; content &lt;/p&gt;
+
+<iframe>
+ - The <iframe> tags allows us to share embedded videos on websites.
+<iframe src="embedded video link">
+</iframe> 

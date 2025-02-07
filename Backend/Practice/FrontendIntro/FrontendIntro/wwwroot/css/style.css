@@ -1,0 +1,19 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+    header ul {
+        list-style: none;
+    }
+
+body {
+    background-color: whitesmoke;
+    padding: 25px;
+}

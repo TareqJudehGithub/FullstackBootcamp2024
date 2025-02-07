@@ -66,6 +66,33 @@ namespace HumanResourcesApp.Controllers
         }
         #endregion
 
+        public async Task<IActionResult> RegisterPractice(RegisterViewModel register)
+        {
+            // Create a new IdentityUser
+            IdentityUser identityUser = new IdentityUser
+            {
+                UserName = register.Username,
+                Email = register.Email,
+                PhoneNumber = register.PhoneNumber
+            };
+
+            var identityResult = await _userManager.CreateAsync(identityUser, register.Password);
+
+            if (identityResult.Succeeded)
+            {
+                return RedirectToAction("Index", "Home");
+            }
+            else
+            {
+                foreach (var error in identityResult.Errors)
+                {
+                    ModelState.AddModelError(error.Code, error.Description);
+                }
+            }
+
+            return View();
+        }
+
         #region Login
         [HttpGet]
         public IActionResult Login()
@@ -111,5 +138,42 @@ namespace HumanResourcesApp.Controllers
         #endregion
 
         #endregion
+
+        #region Update Account Info
+        [HttpGet]
+        public async Task<IActionResult> Manage()
+        {
+            var userIdentity = await _userManager.FindByNameAsync(User.Identity.Name);
+            if (userIdentity != null)
+            {
+                var managerUser = new ManageUser
+                {
+                    Id = userIdentity.Id,
+                    Email = userIdentity.Email,
+                    PhoneNumber = userIdentity.PhoneNumber
+                };
+                return View(managerUser);
+            }
+            return RedirectToAction("Index", "Home");
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Manage(ManageUser manageUser)
+        {
+            var userIdentity = await _userManager.FindByNameAsync(User.Identity.Name);
+
+            if (userIdentity == null)
+            {
+                return NotFound();
+            }
+            userIdentity.Email = manageUser.Email;
+            userIdentity.PhoneNumber = manageUser.PhoneNumber;
+
+            await _userManager.UpdateAsync(userIdentity);
+
+            return View("Index", "Home");
+        }
+        #endregion
     }
 }
+

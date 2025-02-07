@@ -8,6 +8,22 @@ Box Model
  Margin: Space outside of the element, and between different elements.
  Fill area: Area that gets filled with BG color or BG image.
 
+ box-sizing property
+  - border-box;  
+   - content-box;
+    - This is the default behavior for box-sizing property.
+    - Properties like width, height, padding, and margin are NOT including in the element
+     size.
+   - Properties like width, height, padding, and margin are all including in the element
+     size.
+  
+  outline property
+   - Adds an outline sizing (border) to an element
+   - outline-offset: 5px;
+      - fills outer space between the box original size and the outline
+	      width.
+
 Tips:
  - Don't use margin-bottom and margin-top in the same selector, use only 
- one of them, or else we will be getting a collapsing margins.
+   one of them, or else we will be getting a collapsing margins.
+ - 

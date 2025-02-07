@@ -1,0 +1,3 @@
+text-shadow property
+ 	text-shadow: x y blur color;
+  text-shadow: 5px 10px 0 red;

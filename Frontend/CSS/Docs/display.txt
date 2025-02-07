@@ -1,0 +1,6 @@
+Display
+ - 
+ display: inline;           Does not allow setting width, height, padding, or margin.
+ display: inline-block;
+
+- height and width only works with block elements (inline-block;) 

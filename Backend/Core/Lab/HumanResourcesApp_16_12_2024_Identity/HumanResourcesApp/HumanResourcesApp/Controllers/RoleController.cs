@@ -1,6 +1,7 @@
 ﻿using HumanResourcesApp.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace HumanResourcesApp.Controllers
 {
@@ -33,6 +34,22 @@ namespace HumanResourcesApp.Controllers
 
         public async Task<IActionResult> Create(RoleViewModel role)
         {
+
+            // Check if role name does exist
+            var isRoleExists = await _roleManager.RoleExistsAsync(role.RoleName);
+
+            if (isRoleExists)
+            {
+                ModelState.AddModelError("RoleName", "Role already exists");
+                var roles = await _roleManager.Roles
+                    .Select(role => new RoleViewModel
+                    {
+                        RoleId = role.Id,
+                        RoleName = role.Name
+                    }).ToListAsync();
+                return View("Index", roles);
+            }
+
             // maps Identity role to its ViewModel
             var identityRole = new IdentityRole
             {
@@ -47,6 +64,21 @@ namespace HumanResourcesApp.Controllers
 
             return RedirectToAction(nameof(Index));
         }
+        //[HttpGet]
+        //public async Task<ActionResult> Edit(string id)
+        //{
+        //    var role = _roleManager.FindByIdAsync(id);
+
+        //    if (role != null)
+        //    {
+        //        var roleViewModel = new RoleViewModel
+        //        {
+        //            RoleId = role.Id,
+        //            RoleName = role.
+        //        };
+
+        //    }
+        //}
         #endregion
     }
 }

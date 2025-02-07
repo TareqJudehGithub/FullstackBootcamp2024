@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Category>
+
+    <h1>Categories</h1>
+
+<a class="btn btn-outline-info" asp-action="Create">New Category</a>
+
+<table class="table">
+    <tr>
+        <th scope="col">@Html.DisplayNameFor(model => model.Id)</th>
+        <th scope="col">@Html.DisplayNameFor(model => model.Name)</th>    
+        <th scope="col">Action</th>      
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td scope="row">@Html.DisplayFor(model => item.Id)</td>
+        <td scope="row">@Html.DisplayFor(model => item.Name)</td>
+        <td>
+            <a class="btn btn-outline-info"
+               asp-action="Edit"
+               asp-route-id="@item.Id">
+                Edit
+            </a>
+
+            <a class="btn btn-outline-danger"
+               asp-action="Delete"
+               asp-route-id="@item.Id"
+               onclick="return confirm('Delete department @item.Name?')">
+                Delete
+            </a>
+
+        </td>
+    </tr>  
+    }
+  
+</table>

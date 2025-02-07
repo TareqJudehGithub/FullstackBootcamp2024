@@ -22,6 +22,7 @@ namespace HumanResourcesApp.Data
 
         }
         #endregion
+
         public DbSet<Department> Departments { get; set; }  // same as the table name - Plural and PascalCase. 
         public DbSet<Employee> Employees { get; set; }
 

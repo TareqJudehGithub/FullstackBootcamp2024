@@ -1,16 +1,23 @@
 
 CSS notes
+ - CSS describes the style of the content that we build using HTML. In other words, we 
+   use CSS to describe what a page looks like.
 
 # CSS rule
 selector {            # declaration block { property: value }
   property: value;    # "property: value" are declaration/style
 }
 
+- A selector, is the ability to select a particular element.
+
 class selector
 .class-name { 
 }
 
+
 id selector
+ - id should always be unique, so the same id should not be used on on multiple elements.
+ - Using id selector on multiple elements can cause JS problems and code errors.
 #class-name {  
 }
 
@@ -39,16 +46,16 @@ footer p {
   font-size: 16px;
 }
 
-- class are used for multiple elements
+- A class can be used for multiple elements.
+- A class is case sensitive.
 - lists elements are good example for using class attribute.
+- 
 .class-name {
   font-size: 16px;
 }
 
 Notes:  In the real word, we use classes and not ids. classes are more
 practical.
-
-
 
 Colors in CSS
   The RGB (red, green, blue) model
@@ -77,12 +84,10 @@ Colors in CSS
 
   popular grey color: #444444   or rgb(69, 69, 69)
   popular light grey color: #b7b7b7   or rgb(183, 183, 183)
-
-  
+ 
   shorthand property: a property for defining more than one property.
     border: 1px solid #1098ad;
   
-
   Pseudo classes
 
     select first li element using first-child

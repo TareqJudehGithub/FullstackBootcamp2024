@@ -1,0 +1,42 @@
+﻿@*@model IEnumerable<UserManageViewModel>
+
+
+<h2>User Roles</h2>
+
+
+<table class="table m-5">
+
+    <thead class="bg-light">
+        <tr>
+            <th scope="column">@Html.DisplayNameFor(item =>item.Id)</th>
+            <th scope="column">@Html.DisplayNameFor(item => item.Email</th>
+            <th scope="column">@Html.DisplayNameFor(item => item.Roles</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td scope="row">@Html.DisplayFor(modelItem => item.UserName)</td>
+                <td scope="row">@Html.DisplayFor(modelItem => item.Email)</td>
+                <td scope="row">@string.Join(" | ", item.Roles.ToList())</td>
+
+                <td scope="row">
+                    <a class="btn btn-outline-info"
+                       asp-action="Manage"
+                       asp-route-id="@item.Id">
+                        Manage
+                    </a>
+
+                    <a class="btn btn-outline-danger"
+                       asp-action="Delete"
+                       asp-route-id="@item.Id"
+                       asp-controller="User"
+                       onclick="return confirm('Delete @item.Email?')">
+                        Delete
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>*@

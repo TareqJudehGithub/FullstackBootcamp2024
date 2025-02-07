@@ -1,0 +1,29 @@
+Measurements in CSS
+
+
+ - Px (Pixel): This unit is an absolute unit of measurement and is not relative
+    to anything else. It is commonly used for fixed-size elements or elements 
+    that require exact measurements.
+ - rem
+  Relative to the font size of the root <html> element.
+    html {
+    font-size: 16px;
+    }
+
+    h1 {
+      font-size: 2rem; /* 2 * 16px = 32px */
+    }
+ - em
+  Relative to the font size of the parent element.
+    .parent {
+    font-size: 16px;
+    }
+
+    .child {
+      font-size: 0.8em; /* 0.8 * 16px = 12.8px */
+    }
+
+ - 100%
+  - Relative to the screen width in %
+
+ https://medium.com/@kaklotarrahul79/what-is-the-difference-between-rem-and-em-and-px-254536986671
