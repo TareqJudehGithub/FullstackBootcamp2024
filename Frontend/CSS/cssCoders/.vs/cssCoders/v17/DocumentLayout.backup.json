@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WebDev\\MyFullstack\\Frontend\\CSS\\cssCoders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73ACCBE4-DA9F-4724-82D6-B4971F4839A8}|cssCoders\\cssCoders.fsproj|e:\\webdev\\myfullstack\\frontend\\css\\csscoders\\csscoders\\wwwroot\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{73ACCBE4-DA9F-4724-82D6-B4971F4839A8}|cssCoders\\cssCoders.fsproj|solutionrelative:csscoders\\wwwroot\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73ACCBE4-DA9F-4724-82D6-B4971F4839A8}|cssCoders\\cssCoders.fsproj|e:\\webdev\\myfullstack\\frontend\\css\\csscoders\\csscoders\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{73ACCBE4-DA9F-4724-82D6-B4971F4839A8}|cssCoders\\cssCoders.fsproj|solutionrelative:csscoders\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Frontend\\CSS\\cssCoders\\cssCoders\\wwwroot\\html\\index.html",
+              "RelativeDocumentMoniker": "cssCoders\\wwwroot\\html\\index.html",
+              "ToolTip": "E:\\WebDev\\MyFullstack\\Frontend\\CSS\\cssCoders\\cssCoders\\wwwroot\\html\\index.html",
+              "RelativeToolTip": "cssCoders\\wwwroot\\html\\index.html",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-08T07:50:29.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\WebDev\\MyFullstack\\Frontend\\CSS\\cssCoders\\cssCoders\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "cssCoders\\wwwroot\\css\\style.css",
+              "ToolTip": "E:\\WebDev\\MyFullstack\\Frontend\\CSS\\cssCoders\\cssCoders\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "cssCoders\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA0wGMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-08T07:49:43.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

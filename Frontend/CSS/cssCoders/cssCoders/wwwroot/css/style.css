@@ -1,0 +1,113 @@
+﻿@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&family=Sono:wght@200..800&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cairo;
+}
+
+header {
+    width: 100%;
+    background-color: rgb(48, 47, 47);
+    color: rgb(245, 103, 9);
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    box-shadow: 1px 1px 2px rgb(245, 103, 9);
+    position: fixed;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    float: right;
+    padding-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    transition: ease 0.5s;
+}
+
+    a:visited, a:active {
+        color: rgb(245, 103, 9);
+    }
+
+    a:hover {
+        color: white;
+    }
+
+.main-section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    align-items: center;
+    height: 75vh;
+    background-image: url("https://images.unsplash.com/photo-1587372723630-cc6f6f661cdc?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: overlay;
+    background-color: rgb(16, 15, 15, 0.75);
+    margin-bottom: 50px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+.main-section {
+    color: white;
+    text-align: center;
+}
+
+    .main-section p {
+        margin-bottom: 20px;
+    }
+
+.register-now {
+    color: rgb(245, 103, 9);
+    font-size: 20px;
+    margin-top: 50px;
+    border: 1px solid rgb(245, 103, 9);
+    border-radius: 25px;
+    padding: 2px 10px;
+}
+
+    .register-now:hover {
+        background-color: rgb(245, 103, 9, 0.85 );
+        border-color: rgb(48, 47, 47);
+    }
+
+.container {
+    text-align: center;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.card-header {
+    margin-bottom: 20px;
+}
+
+.services {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 300px;
+}
+
+.cards {
+    padding: 10px;
+    box-shadow: 2px 2px 5px grey;
+    min-width: 400px;
+    max-width: 400px;
+    margin: 1%;
+}
+
+footer {
+    text-align: center;
+}
